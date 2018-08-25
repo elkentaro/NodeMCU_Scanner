@@ -84,7 +84,8 @@ void loop() {
     for (int i = 0; i < n; ++i)
     {
       digitalWrite(0, HIGH);  // On board LED ON
-        File dataFile = SD.open("logger.txt", FILE_WRITE);
+      File dataFile = SD.open("logger.txt", FILE_WRITE);
+      
       // Print SSID and RSSI for each network found to Serial Monitor. Show SSID, Signal strenght, and OPEN or Encrypted
       Serial.print(i + 1);
       Serial.print(": ");
@@ -92,18 +93,31 @@ void loop() {
       Serial.print(": ");
       Serial.print(WiFi.RSSI(i));
       Serial.print("dBm | ");
+      Serial.print(WiFi.BSSIDstr(i));
+      Serial.print(" | ");
       Serial.println((WiFi.encryptionType(i) == ENC_TYPE_NONE)?"Not Encrypted":"Encrypted");
+   
+
+      
 // if and SSID without encryption is found write that SSID to the logger.txt on the root of the sd card.
       if (dataFile) {
        if (WiFi.encryptionType(i) == ENC_TYPE_NONE)
        {
        dataFile.print(WiFi.SSID(i));
        dataFile.print(",");
+       dataFile.print(WiFi.BSSIDstr(i));
+       dataFile.print(",");
+       dataFile.print(WiFi.channel(i));
+       dataFile.print("ch");
+       dataFile.print(",");
        dataFile.print("OPEN");
        dataFile.println();
        dataFile.close();
         }
       }
+
+      
+
   
     }  // end for/next loop for n# of wifi networks found
   }   // endif wifi found (n was <> 0)
