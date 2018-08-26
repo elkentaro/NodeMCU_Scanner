@@ -84,7 +84,9 @@ void loop() {
     for (int i = 0; i < n; ++i)
     {
       digitalWrite(0, HIGH);  // On board LED ON
-      File dataFile = SD.open("logger.txt", FILE_WRITE);
+      File openFile = SD.open("open.txt", FILE_WRITE);
+      File allFile = SD.open("all.txt", FILE_WRITE);
+      String encryptType ="";
       
       // Print SSID and RSSI for each network found to Serial Monitor. Show SSID, Signal strenght, and OPEN or Encrypted
       Serial.print(i + 1);
@@ -93,31 +95,63 @@ void loop() {
       Serial.print(": ");
       Serial.print(WiFi.RSSI(i));
       Serial.print("dBm | ");
-      Serial.print(WiFi.BSSIDstr(i));
-      Serial.print(" | ");
-      Serial.println((WiFi.encryptionType(i) == ENC_TYPE_NONE)?"Not Encrypted":"Encrypted");
-   
+
+      switch (WiFi.encryptionType(i)) {
+
+        case 5:
+        encryptType = "WEP";
+        break;
+        case 2:
+        encryptType = "WPA/PSK/TKIP";
+        break;
+        case 4:
+        encryptType = "WPA2/PSK/CCMP";
+        break;
+        case 7:
+        encryptType = "Open";
+        break;
+        case 8:
+        encryptType = "WPA/WPA2/PSK";
+        break ;
+        
+      }
+      Serial.print(encryptType);
+      Serial.print (" |");
+    
+      Serial.println(WiFi.BSSIDstr(i));
 
       
 // if and SSID without encryption is found write that SSID to the logger.txt on the root of the sd card.
-      if (dataFile) {
+      if (openFile) {
        if (WiFi.encryptionType(i) == ENC_TYPE_NONE)
        {
-       dataFile.print(WiFi.SSID(i));
-       dataFile.print(",");
-       dataFile.print(WiFi.BSSIDstr(i));
-       dataFile.print(",");
-       dataFile.print(WiFi.channel(i));
-       dataFile.print("ch");
-       dataFile.print(",");
-       dataFile.print("OPEN");
-       dataFile.println();
-       dataFile.close();
+       openFile.print(WiFi.SSID(i));
+       openFile.print(",");
+       openFile.print(WiFi.BSSIDstr(i));
+       openFile.print(",");
+       openFile.print(WiFi.channel(i));
+       openFile.print("ch");
+       openFile.print(",");
+       openFile.print("OPEN");
+       openFile.println();
+       openFile.close();
         }
       }
-
       
-
+      if (allFile) {
+       allFile.print(WiFi.SSID(i));
+       allFile.print(",");
+       allFile.print(WiFi.BSSIDstr(i));
+       allFile.print(",");
+       allFile.print(WiFi.channel(i));
+       allFile.print("ch");
+       allFile.print(",");
+       allFile.print(encryptType);
+       allFile.println();
+       allFile.close();
+       
+      }
+      
   
     }  // end for/next loop for n# of wifi networks found
   }   // endif wifi found (n was <> 0)
