@@ -5,7 +5,7 @@ This code is based off the ESP8266 scanner by @OurCatDoor of WhiskeyTangoHotel.C
 It scans the 2.4Ghz and logs open SSIDs (ie: not encryption) to a file named "open.txt" on the root of the SD card, however it also writes everything it finds to a text file called "all.txt" on the root of the SD card. It does not check for previously detected or not , it just keeps writing to the SD card whatever it finds. Use "sort -u" or something to 
 extract the individual unique findings later in post-capture processing. 
 
-Yes, its very limited but it has a very destinct purpose. 
+Yes, its very limited but it has a very distinct purpose. 
 (see: https://twitter.com/mubix/status/1032657035597426688)
 
 ***Data logged:
