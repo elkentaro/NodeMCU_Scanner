@@ -1,0 +1,675 @@
+     
+ Social WiFi
+#PocztaPolska
+#PrzystanekWyspianski
+#przystanek_free wifi
+*Akakiko Free WiFi
++GORAGGIO_2.4G
++USEN_SPOT_free
+.FREE_Wi-Fi_PASSPORT
+.FREE_Wi-Fi_PASSPORT_J
+.Free Wi-Fi for Application
+.Radisson_Guest
+.Radisson_Lobby
+.Radisson_Meetings
+.wienatPublicWLAN
+00-Shisui_Town_Free_Wi-Fi
+0000FLETS-PORTAL
+0001softbank
+000A79C6BA9D
+000D0B1306CD
+000D0B874794
+000D0B878B9C
+000MINISTOP_Wi-Fi
+001601109A60
+001601D94576
+001D7396CA2C
+00_MCD-FREE-WIFI
+31WE-032A
+43-44
+45WE-017A
+45WE-017B
+45WE-017C
+45WE-017D
+45WE-017E
+69B6
+70006-109310
+70006-109312
+70006-109338
+7SPOT
+8level_net
+@Hyatt_WiFi
+ABBAG
+ABC Limousines
+ACG-CHECK-IN
+AHSM
+ALCARE25
+AMICIS_Guest
+AP-VIP
+ARTUS_B1
+ASTRA
+ASUS
+ASUS_RPAC52
+ATK-Guest
+AUTOBUSOVA STANICA
+Air-AAI
+Air-AAI510
+Airliner HEAGmobilo
+Airport-Frankfurt
+AirportClub
+AirportClub |  Guest
+Android kp
+AndroidAP
+AndroidHotspot6839
+AndroidHotspot9976
+Ankerbrot
+AuCafeWiFi
+Austrian Free Wifi
+B-LINK_957252
+BASM_wifi_free
+BILLA FREE WLAN
+BKA-Gast
+BM-Wirtschaft
+BTOpenzone
+BUFFALO-DD1CC0_G
+Babuders
+Bank Austria Gratis WLAN
+Barrock Guest
+Belkin_N+_D6E0B0
+Benediktushaus Guests
+Big-Bus-Tours-Ltd
+Bikemap Guest
+BlackBox_G1_509020703
+Blaguss
+Blumenwiese free
+BonAmi
+Bose ST 10 (F3E620)
+Bose Wave ST (5BEDBB)
+Botel MARINA Guest
+BottegaVeneta
+Brunnengarten Gast
+Buffalo-G-B680
+CEWE
+CG-Guest
+CLASSCOM_SCH
+COSTA COFFEE
+CPE_FA5CFD
+CSOB free WiFi
+CUP
+Café Diglas - Gäste
+Caldana
+Calimex Free
+Camel
+CameraCafe
+Chanel_Guest
+Channels_Public
+Charlie P´s Freewave
+Chilli OPEN
+Chromecast DS.b
+Chromecast2752.b
+Conference
+Crystal
+Cube-ap guest
+Czeczotka4Guests (ask staff)
+D-Home
+D-Link_DAP-2020
+DDI-SKRZAT
+DDSG_Blue_Danube_BLU
+DDSG_Blue_Danube_VIN
+DDSG_Blue_Danube_WIE
+DOMINO-APARTMENTS
+DOMINO-APARTMENTS-1
+DP Bratislava Free Wifi 10
+DP Bratislava Free Wifi 11
+DP Bratislava Free Wifi 18
+DP Bratislava Free Wifi 2
+DP Bratislava Free Wifi 20
+DP Bratislava Free Wifi 21
+DP Bratislava Free Wifi 22
+DP Bratislava Free Wifi 26
+DP Bratislava Free Wifi 27
+DP Bratislava Free Wifi 28
+DP Bratislava Free Wifi 29
+DP Bratislava Free Wifi 32
+DP Bratislava Free Wifi 38
+DP Bratislava Free Wifi 45
+DP Bratislava Free Wifi 48
+DP Bratislava Free Wifi 49
+DP Bratislava Free Wifi 51
+DP Bratislava Free Wifi 53
+DP Bratislava Free Wifi 54
+DP Bratislava Free Wifi 56
+DP Bratislava Free Wifi 59
+DP Bratislava Free Wifi 68
+DP Bratislava Free Wifi 7
+DP Bratislava Free Wifi 77
+DP Bratislava Free Wifi 9
+Dachgeschoss.b
+Darmowe_Orange_WiFi
+Devin
+Dnipro
+Dominium – free WIFI
+Donkes307
+Donkes308
+Donkes406
+Dr. Richard
+Dr.Max
+DrayTek
+Dunajsky Pivovar
+Duża sypialnia.b
+EDR-Gast
+EPSON
+ETRO
+EdimaxADSL
+ElsoNET-quovadis
+Express Bratislava - Wien
+FABIOS
+FON_FREE_EAP
+FON_FREE_INTERNET
+FON_NETIA_FREE_INTERNET
+FREE-VSMU
+FREE_ANGELS
+FREE_BUS_WiFi
+FREE_Wi-Fi_and_TOKYO
+FSGUEST
+Falkensteiner
+Famima_Wi-Fi
+Finavia meeting - login required �
+Finavia meeting - login required �
+Finavia meeting - login required �
+Finavia meeting - login required �
+Finavia meeting - login required �
+Finavia meeting - login required �
+Finavia meeting - login required �
+Finavia meeting - login required �
+Finavia meeting - login required �
+Finavia meeting - login required �
+Finavia meeting - login required �
+Finavia meeting - login required �
+Finavia meeting - login required �
+Finavia meeting - login required �
+Finavia meeting - login required �
+Finavia meeting - login required �
+Finavia meeting - login required �
+FlixBus
+Flixbus
+FlyNet
+Fon WiFi
+Free Wi-Fi 365 bank
+Free WiFi HotSpot
+Free-WLAN-WienEnergie
+FreeWiFi-NARITA
+FreeWiFi-NARITA(2.4G)
+Freewave
+Funki Punki
+GALLERY_RESTAURANT_FREE_WiFi_EXT �
+GLI-Guests
+GLO_rooms
+GOLEMTECH.SK_1A
+GOLEMTECH.SK_1B
+GOLEMTECH.SK_1C
+GOLEMTECH.SK_2A
+GOLEMTECH.SK_2B
+GOLEMTECH.SK_3C
+GOLEMTECH.SK_4B
+GOLEMTECH.SK_PRIZEMIE
+GRENKE-Guest
+GSV OFFICE
+GTRNET.pl_12-350-12-12
+GTRNET.pl_4.202G_MOR_502-635-694 �
+GTRNET.pl_4.202G_MOR_502-635-694 �
+GUEST
+Gast-WLAN
+Gelateria Castelletto
+Goethe-Institut
+Guest
+Guest2.4G
+GuestDNET
+HEL Airport Congress Wi-Fi
+HGuest
+HL-guest
+HP-Print-01-Deskjet 3540 series
+HP-Print-04-LaserJet Pro MFP
+HP-Print-09-ENVY 5530 series
+HP-Print-0C-LaserJet 1102
+HP-Print-0C-Photosmart 5520
+HP-Print-0D-LaserJet 1102
+HP-Print-10-LaserJet 1102
+HP-Print-10-LaserJet M1217
+HP-Print-14-Deskjet 3520 series
+HP-Print-23-Officejet Pro 8620
+HP-Print-28-LaserJet 1102
+HP-Print-2B-LaserJet 1102
+HP-Print-2C-Photosmart 7520
+HP-Print-31-Deskjet 3520 series
+HP-Print-39-LaserJet 200
+HP-Print-44-LaserJet M1217
+HP-Print-44-Officejet 6700
+HP-Print-45-LaserJet M1217
+HP-Print-4C-LaserJet M12
+HP-Print-50-LaserJet Pro MFP
+HP-Print-53-LaserJet 1102
+HP-Print-55-LaserJet 1102
+HP-Print-5A-LaserJet M12
+HP-Print-5C-LaserJet CP1025
+HP-Print-71-LaserJet 1102
+HP-Print-79-Officejet Pro X476dw �
+HP-Print-82-ENVY 5530 series
+HP-Print-86-LaserJet 1025
+HP-Print-8A-Deskjet 6520 series
+HP-Print-8E-Officejet 6700
+HP-Print-94-ENVY 4500 series
+HP-Print-A5-LaserJet 1102
+HP-Print-A8-LaserJet 1102
+HP-Print-A9-LaserJet 1102
+HP-Print-CA-LaserJet 1025
+HP-Print-CD-LaserJet 1102
+HP-Print-D5-LaserJet M1217
+HP-Print-D7-Deskjet 4510 series
+HP-Print-D7-LaserJet 1102
+HP-Print-DA-LaserJet 1102
+HP-Print-DB-LaserJet 1102
+HP-Print-E0-LaserJet 1102
+HP-Print-E1-LaserJet Pro MFP
+HP-Print-F6-Deskjet 3510 series
+HP-Print-F7-Officejet Pro 8620
+HP-Print-b5-HP MFP476
+HP-Print-c4-LaserJet 200
+HP-Print-fa-LaserJet Pro M201dw
+HP-Setup>1e-M277 LaserJet
+HP-Setup>3f-M277 LaserJet
+HP-Setup>5f-M277 LaserJet
+HP-Setup>72-M477 LaserJet
+HP-Setup>85-M277 LaserJet
+HP-Setup>f4-M277 LaserJet
+HP-nomodel.2E2D86
+HP-nomodel.5520D8
+HP01776F
+HP0209A7
+HP0209B3
+HP028C6C
+HP4D0462
+HP79329E
+HPB110a.AC4825
+HPC75183
+HPJ310a.4669C8
+HTF220
+HUAWEI P10
+Hell
+Helsinki Airport Free Wi-Fi
+HighwayBUS-Wi-Fi
+Hilton Honors
+HohesHaus
+Hopferl
+HotSpot SantiHotel
+IASAI
+ICEKRAKOW_GUEST
+IDEA_GUEST
+IF25
+IK_AP_PLD4
+IMS2
+IMS_RET
+INFOKRAKOW
+ITM-GUEST
+Infinity mal WiFi
+Innova2.0
+J5320
+JAL LOUNGE
+JALJA822J
+JALJA826J
+JALJA837J
+JALJA861J
+JALJA866J
+JAM RHYTHM_0DD8
+JBL-Link101961.n001
+JIMMIS
+JPdmvr_STa_S1128CS
+JR-EAST_FREE_Wi-Fi
+Japan Airlines
+Jonas Reindl
+Jordan Bus Free WiFi
+Jumpstreet_free
+K1500-CBLP1055
+KAH_gosc
+KEISEI_FREE_Wi-Fi
+KIPERTECH1
+KKK_Net_001
+KOBE_FREE
+KORZO free wifi
+KRK Free WiFi
+KTM_Gast
+KaPa-Gast
+KaffeeMayer
+Katsushika_Free_Wi-Fi
+KeiseiBus_Free_Wi-Fi
+KeramNet_RS_2
+Klub Pod Jaszczurami - FB
+KnowSpot
+Kongres
+Kozel
+Krah-Krah friQuenz.net
+Krwawa Kawa (ask staff)
+LC-Guest
+LG
+LID-3F-1(2.4g)
+LISKA-GUEST
+LSJOYsSlEIcAQwFD1649287725
+La Pala Guest
+Lajkonik
+Le Club Guest
+Le Cru free WiFi
+Legian_wifi_2F
+Legian_wifi_4F
+Lejdy
+Lenovo K6
+Lenovo TAB4 10
+LenovoK5
+LeoExpress
+Limousine_Bus_Free_Wi-Fi
+LocalGroup
+Ludek
+Lufthansa Systems Hotspot
+Luftnetz 2
+MASQUERADE CLUB BRATISLAVA
+MBT Gast
+MKB - WiFi FreeZone
+MNK
+MOW bar
+MS_Moldavia
+MUW-GUEST
+MYDL-ZARZE-24
+MagWienHotspot
+MagWienHotspot_EXT
+Maxim Servis Showroom
+McD-Hotspot
+McDonald's
+McDonalds-FreeWlan
+MegaNET_M2_Bidz
+Mercedes Free 2
+MeshGo_Touch
+Metro_Free_Wi-Fi
+MikroTik-08F6E7
+MikroTik-A9E013
+MiuMiuGuest
+MonsterGuest
+Moovbox
+Motto am Fluss free WiFi
+My ASUS
+My-Place
+MyNET_SW4
+NESMOB
+NETEKsenat
+NETIA WIFI
+NH-Hotel-Group
+NP-GIEB
+Nakajima-free
+Neobus
+New Gardens
+NipponAsiaHalalAssociation
+Noworol
+OAGUEST2
+OEBB-GAST
+OEBB-Postbus
+OERAG-AIR
+OERAG-GUEST
+ORANGE-free
+ORANGE-free-2
+Obelix
+OldCity FreeWIFI
+Omni10_Setup_038
+Orange Internet do auta
+Orange-Free
+Orange_FunSpot
+PBS-5F86F5
+PHH-Gast
+PIA-FreeWi-Fi
+PIANOLA
+PN-L703W-2A3
+PRK_Visitors
+PalaisNOE_free
+ParkInn_Guest
+Parkinn_Guest
+PizzaMizza
+Polk MagniFi Mini-7495.l001
+Portthru
+Praclik free Wi-Fi
+PradaGuest
+Pressburg client
+Pressburg_guest
+Primi Guest
+Pulitzer
+QHOTELPLUS
+RA-Drexler-Guest
+RA-FR_GAST
+RBguests
+RG60SE
+RIVER`S CLUB
+RVSMU
+Radisson_GUEST
+Raumfeld Setup
+Redmi
+Redwood
+Regina Hotspot
+Regiojet - zlty
+Regiojet - zluty
+Rio Guest
+SA9800_4fe74d
+SAD Dunajska Streda
+SAD ZH
+SETUP
+SGA
+SIOUX
+SKARITZ
+SLOVNAFT
+SMP_GUEST
+SND
+SO! COFFEE
+SOLISNET_LEO_AZORY
+SOLIS_LOT_BELAGIO
+SOS_INTERNAT
+SPAR on Air
+SRDCOVKA FREE WIFI
+SULTAN
+SVABNET_AP_diely
+SWS1day
+SZWAGROPOL 43
+SaintLaurent
+Samin.b
+SanDisk Connect EBB919
+Santander_Klient
+Sheraton_GUEST
+Stadtcafe free WiFi
+Steigenberger
+Steora
+Store_BV
+Store_YC
+Stradonia Apartments
+Strandbar Herrmann Guest WiFi
+Superhotel-APb
+Sushi
+Sushi2
+Swarovski_Guest
+Swietelsky Guest
+Szara Ges
+TELLO-C399A5
+TKGuest
+TOBU_Free_Wi-Fi
+TP-LINK_Extender_42EBE8
+TP-LINK_Extender_D5CAFB
+TP-Link_Extender
+TRAFALGAR WiFi 80
+TRE free
+TSURUHA_Free_Wi-Fi
+TVHub-160200455
+Telekom
+Telekom pre teba
+Telekom_Airlounge
+Telekom_Airlounge_EXT
+Telekom_FON
+Telekom_LH-Lounge
+Teltonika_Router
+The Spaghetti
+Thomson2242BB
+Thomson545C48
+ThomsonCA595F
+Tigra Hotspot
+Toei_Bus_Free_Wi-Fi
+TuranCar-TelekomSK
+Turancar Zlty Expres
+Twenties
+Twin City Free Wifi
+UCS-E
+UJ_WiFi
+ULIB
+ULIB-OLD
+UMKrakow
+UPC Wi-Free
+Uni Credit Bank
+VIB
+VIG-Guest
+VILNET-122802468-BG
+VOTRE CHAUFFEUR PRIVE - MATHIEU
+VSVU135
+VUB_Visitor
+Venturska Guest
+Vienna Airport Lines
+VisitBratislava
+WAVE
+WDNN01
+WFD10117
+WGNN01
+WG_AP_60C117
+WG_AP_60F8A4
+WG_AP_6102B9
+WG_AP_66B13E
+WIFI_GUEST_NSSR
+WILLBayCity(2.4GHz)
+WIguest
+WLAN
+WLAN4WOW
+WLAN@RMV
+WLANNETGUEST
+WPS
+Wawel-WiFi
+Wesele
+Wi2
+Wi2_free
+Wi2premium
+WiFi_OBDII
+WienIT-Guest
+Wifi_Captive
+WirelessViennaAirport
+WolfordGuest
+X03B-89m6274IR
+Xerox
+Ynet
+ZSE-GUEST
+Zara-Emp
+Zara-WiFi
+Zeitgeist
+Zeppelin
+Zichy
+ZichyRestaurant Free WiFi
+Zielone Krzesla
+ZyXEL
+adhocknichtmehrbenützen
+ahb.do.not.use
+airlive
+alizefreenet
+ap-game-c3cf29
+apolka-vea
+aula_hotspot
+austriawien
+balt1
+bene_guest
+bene_mobile
+bermuda-braeu
+big hotspot
+billardcafekoo
+black096
+blacky
+blaguss50525
+blaguss65404
+blueguest
+bluehole
+brenner.funkfeuer.at
+caffe DELIA'S
+dd-wrt
+default
+dlink
+dlink1
+dlink_DWR-921
+dsquared2 guest
+eduroam
+eduroam_bmbwf
+eduroam_uk
+eduroam_wf
+erstebank
+ewa
+five points 2016
+free_wifi@louisvuitton
+freudmediaguide
+friQuenz.net
+gas4guest
+gast_bildung
+gast_bmwf
+global.lpl.top
+govroam
+guest
+guest01
+guest_r
+hoistwifi
+hotspot.funkfeuer.at
+hpsetup
+htf118
+igsl-1090-Gast
+imos
+inno.lounge
+jrestnet
+kai_Free_Wi-Fi(tourist)
+kaikyo_Wi-Fi
+klient mBank
+linksys_2GEXT
+loop21 gratis wlan
+m3connect
+mBank
+marrols
+marrols_first_floor
+nvs-guest
+orange-free
+pooh385260_4
+portthru
+prada.org
+print server 6041CA
+psj-users
+riva
+rubicon guest
+servithinkhs
+shingetsu
+sodispar_e4
+sofitel
+tab a6
+taxi
+tbemployee2
+tesco-internet
+tstrad
+tyniec.net_s1
+vpepsilon412
+wcguest
+wd-guest
+web'n'walk Box IV
+wentzl
+wifi_square
+www.druzba.blava.net-scanning
+www.ubnt.com
+yamm! am Schottentor
+zVis 1
+zax1
+לא נימצא התקן
+ダイニング ルーム.b
+チームタウンコート.b
+ファミリー ルーム 2.b
+リビング
+リビング.b
+リビング.o
+小米手机
