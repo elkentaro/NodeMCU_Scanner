@@ -1,0 +1,2957 @@
+#Skyroam_2h9
+#Skyroam_4xc
+#Skyroam_8s7
+#Skyroam_92n
+#Skyroam_aa1
+#Skyroam_c2f
+#Skyroam_cfg
+#Skyroam_e4q
+#Skyroam_enq
+#Skyroam_gcz
+#Skyroam_gn2
+#Skyroam_gr6
+#Skyroam_h4s
+#Skyroam_r10
+#Skyroam_sea
+#Skyroam_usx
+$guest$
++48+
+0010
+0TheOne-2.4
+104055-mobil
+13sal
+18.nov.
+19-4
+1e097010
+2018Chantal
+2ndC
+2ndC Guest
+2ndCMedia
+3-LTE-C46886
+3-LTE-Q72G77
+3DK_4G-CA_WIFI-2190
+3DK_4G-CA_WIFI-3320
+3DK_4G-CA_WIFI-3672
+3DK_4G-CA_WIFI-3881
+3DK_4G-CA_WIFI-9E0B
+3DK_4G-CA_WIFI-AA4B
+3DK_4G-CA_WIFI-AAED
+3DK_4G-CA_WIFI-ACBE
+3DK_4G_WIFI-570F
+3SStaff
+3btbvtn7
+3gzxv49y_EXT
+3h6gz6z9
+3t4mjryx
+4610X WIRELESS PLUS
+49bx74yv
+4A_Free_WiFi
+4G Wi-Fi
+4G Wi-Fi 3 DCJCMJ
+4G Wi-Fi 3Danmark-0129
+4G Wi-Fi 3Danmark-0313
+4G Wi-Fi 3Danmark-061F
+4G Wi-Fi 3Danmark-0782
+4G Wi-Fi 3Danmark-0A76
+4G Wi-Fi 3Danmark-0E69
+4G Wi-Fi 3Danmark-11F3
+4G Wi-Fi 3Danmark-1257
+4G Wi-Fi 3Danmark-151F
+4G Wi-Fi 3Danmark-2458
+4G Wi-Fi 3Danmark-29C1
+4G Wi-Fi 3Danmark-2B9D
+4G Wi-Fi 3Danmark-3078
+4G Wi-Fi 3Danmark-3239
+4G Wi-Fi 3Danmark-334C
+4G Wi-Fi 3Danmark-38F0
+4G Wi-Fi 3Danmark-4096
+4G Wi-Fi 3Danmark-4758
+4G Wi-Fi 3Danmark-49A1
+4G Wi-Fi 3Danmark-52AF
+4G Wi-Fi 3Danmark-53E6
+4G Wi-Fi 3Danmark-53F6
+4G Wi-Fi 3Danmark-5419
+4G Wi-Fi 3Danmark-5492
+4G Wi-Fi 3Danmark-54BD
+4G Wi-Fi 3Danmark-580B
+4G Wi-Fi 3Danmark-617D
+4G Wi-Fi 3Danmark-65F4
+4G Wi-Fi 3Danmark-672B
+4G Wi-Fi 3Danmark-6A0E
+4G Wi-Fi 3Danmark-6F6A
+4G Wi-Fi 3Danmark-70C8
+4G Wi-Fi 3Danmark-7394
+4G Wi-Fi 3Danmark-7479
+4G Wi-Fi 3Danmark-7626
+4G Wi-Fi 3Danmark-769E
+4G Wi-Fi 3Danmark-7A00
+4G Wi-Fi 3Danmark-7ACD
+4G Wi-Fi 3Danmark-843F
+4G Wi-Fi 3Danmark-8643
+4G Wi-Fi 3Danmark-8721
+4G Wi-Fi 3Danmark-8886
+4G Wi-Fi 3Danmark-896C
+4G Wi-Fi 3Danmark-8C21
+4G Wi-Fi 3Danmark-916E
+4G Wi-Fi 3Danmark-9212
+4G Wi-Fi 3Danmark-947E
+4G Wi-Fi 3Danmark-9C57
+4G Wi-Fi 3Danmark-9FCB
+4G Wi-Fi 3Danmark-9FD8
+4G Wi-Fi 3Danmark-A0D1
+4G Wi-Fi 3Danmark-A184
+4G Wi-Fi 3Danmark-A2DF
+4G Wi-Fi 3Danmark-B171
+4G Wi-Fi 3Danmark-CE73
+4G Wi-Fi 3Danmark-D2F3
+4G Wi-Fi 3Danmark-D495
+4G Wi-Fi 3Danmark-D579
+4G Wi-Fi 3Danmark-D7F8
+4G Wi-Fi 3Danmark-D7F9
+4G Wi-Fi 3Danmark-D943
+4G Wi-Fi 3Danmark-DDD4
+4G Wi-Fi 3Danmark-E196
+4G Wi-Fi 3Danmark-E491
+4G Wi-Fi 3Danmark-EA77
+4G Wi-Fi 3Danmark-F581
+4G Wi-Fi 3Danmark-FC0D
+4G Wi-Fi sommerhus
+4G-ASHLAJOT-metukot
+4G-Gateway-8043
+4G-Gateway-80CA
+4G-Gateway-8370
+4G-Gateway-84E7
+4G-Gateway-CD45
+4G-Gateway-DE01
+4G-Gateway-EC6C
+4G-Gateway-F74E
+4G-Gateway-FBF9
+4G-Gateway-FD17
+4G-Mobile-WiFi-1-1765
+4G-Mobile-WiFi-A478
+4G-Mobile-WiFi-E208
+4GRouter11
+4G_Wi-Fi_3Danmark-EE8C
+4bzs3akf
+4g mobile wifi 1-1283
+4r5qmrap_2GEXT
+4routerpaa
+4zCUzK3j
+4zx5khd7
+503BLS
+53k4hav7
+57ud7dx3
+59
+5C-Wifi
+5mgxkj3s
+6MJdXERv
+6fhta454
+6gsbfxfu
+7-ELEVEN WIFI
+7-ElevenIntern
+7880 Mobil
+7D5NdVP7
+7E3u64GV
+7dryfujv
+7gd4gm6k
+7ggdgrpy
+7yqfk9up
+885rbas iPhone
+9F926A-TS3100series
+9jrqkjmh
+9ps7zdah
+@
+A9F1BDF1DAB1NVT4F4F59
+AARSLEFF-WIFI_2
+AAU-1-DAY
+AAU-1x
+AB13wifi
+AB13wifi_EXT
+ACGUESTS
+ACINTERNAL
+AFlyOnTheWall
+AMALIENBORGFREEWIFI
+AMG49
+AMG49guest
+AMGMOBIL
+AMSTRUP SIKRING
+AMX
+AO Hotel Tech
+AP01
+APCOA P-hus
+APMH-Guest
+APMM_18Q3
+APMM_HOTSPOT
+APM_Employees
+APM_GUEST
+APM_Temp01
+AP_2G_6646
+AQ_Guest
+AQ_Wifi
+ASUS
+ASUS_24
+ASUS_Guest1
+AUDI21357
+AVnet@al-bank
+AYOEBAYO
+Aarsleff-wifi
+Abildskou Bus 184-1
+Abildskou Bus 184-2
+Abildskou Bus 184-3
+Abildskou Bus 184-Admin
+AdColony
+Adeel's Phone
+Adina Hotel Guest
+Adm.CC
+Admin
+Admiral-Guest
+AdmiralHotel
+Advokathuset
+Advokathuset_guest
+AgneteogJacob
+Agnitio-Guest
+AgreementGaest
+AgreementIntern
+Aguka
+Air China
+Air Extreme
+AirLink07BBF4
+AirLink1600b0
+AirLink163de0
+AirLink59300
+AirLink89300
+AirTies_Air4920_87CY
+Airport Italia
+Airtrack1
+AirtrackX
+Ality
+Allergy Certified
+Alpha_guest
+Althoff
+Amaliegade 36 ekstra netv√¶rk
+Amaliegade391tv
+Amaliegade43
+Amaliegade5G
+AmaliegadeHaar
+Amerika34
+AmgGuest
+Amrop-Guest
+Amurii
+AndKat
+Anders - iPhone
+Andersen2G
+AndroidAP
+AndroidAP20B0
+AndroidAP231A
+AndroidAP267E
+AndroidAP3891
+AndroidAPC6EE
+AndroidHotspot4006
+Angelicus
+Angelova
+AntHill Guest
+Antegro
+AntenneMesteren Tlf: 42488000
+Anthill
+ApSetUp
+Apparat PH18
+Apple Network 0e5639
+Apple Network 7bdf83
+Apple Network 889563
+Apple White+ T3 CAP
+Apple Wifi
+Applesis-4G
+ArcadeHouse
+Arch Re
+Arkil wifi
+Artech
+Artemik
+Artland
+Aslan2
+Asmus
+Astra
+Astra_Guest
+Attendo
+Audi05521
+Audi09251
+Audi10503
+Audi14101
+Audi22808
+Audi41333
+Audi75430
+Audi_MMI_0cb446
+Audi_MMI_0cd9be
+Audi_MMI_2110
+Audi_MMI_2b66ca
+Audi_MMI_4773
+Audi_MMI_5837
+Audi_MMI_6231
+Audi_MMI_9358
+Avnet-90.1.25
+B&O PLAY
+B.K.S
+B2 Content Discovery
+B683-BD57
+BACH
+BDKWIFI
+BEN
+BG30Guest
+BG30_concierge
+BG_3729
+BH
+BHGroupGuest
+BILEMPLOYEE2
+BILEMPLOYEE5
+BILGUEST
+BIP1906
+BKH
+BKS-staff
+BKS-student
+BMW-Car-Hotspot-LTE-852
+BOH
+BOH-4G
+BOH-GUEST
+BOPAmobil
+BREDGADE
+BREDGADE75
+BRIDGE42
+BRK
+BROS
+BSS18E1TV-AP2
+BUF-Airplay
+BUP Mobil
+BUZAnet
+BYR Client
+Bach Gruppen 
+BakeKontor
+BaliTan24
+Barkas
+Barslund-1
+Batcave
+Batnet
+Bechmann443
+Beco
+Bedrebustur
+Bentley_WLAN_3208
+Beoplay M3_28721731
+Bernstorff
+Bertie
+Bertieguest
+Besaetning
+Bestseller
+Bestseller Guest
+Bestseller Mobile
+Bglee
+Birgits iPhone
+BitGlobe
+BitGlobe-Guest
+Blackvue750S-82615B
+Blackvue750S-8264C9
+Blackvue750S-82CD26
+Blackvue750S-82D6A8
+Blue Velvet
+BlueskyGuest
+Boelsresidens
+Boernehuset Svanen
+Boffi
+Borgen
+Boris
+Bournonville Meeting
+Bove
+Boye
+BrancorWifi
+Brancor_2.4G_x1
+Brandt&Hallen
+Brandts
+Bredgade
+Bredgade14.dk
+Bredgade69 
+Bring
+Brita-wifi
+Brogaard
+Brogaard_EXT
+BronnumsBar
+BrooklynNet
+Bruun Bertelsen
+Bruun Rasmussen Guest
+Bruun_AP
+Bryggen13.5
+Br√∏chner Hotels WIF
+Buckingham
+Bugten
+Bupa-Wifi
+Bus4You
+BusNet
+Busch_EXT
+C
+C'est le mob de Pierre
+C8
+CAH-Phone
+CBC
+CBmgmd7jrp
+CChtsv6.b
+CFH Lounge
+CFL-Hotspot
+CH
+CH-VM18
+CHAS.HUDE
+CHAS.HUDE-GUEST
+CHS
+CHS Apple AP 3
+CHS Guest WiFi
+CHS Lager
+CIA-007
+CIID Lab
+CJ AS
+CK Site WiFi
+CM84-NJFQ
+CMT-MS
+CMTW
+CMnet
+COH ApS
+CONTRAST Privat
+COPI Guest
+COPI Vision
+CP-Apple
+CP1729
+CPB24
+CPH Airport Free WIFI
+CPH Voucher
+CPH-LIVING
+CPH-Parkering
+CP_KASSAMAGNEETTI
+CS-Retssal-3
+CS-Retssal-9
+CS-Retssal15
+CS-Retssal6
+CSL-Devices
+CUEnet2083
+CWOLangebrogade
+CWTHOME4
+CWorldWide_CPH
+CableBox-003B
+CableBox-0360
+CableBox-04C0
+CableBox-07F3
+CableBox-0873
+CableBox-0D1C
+CableBox-1152
+CableBox-1190
+CableBox-14CB
+CableBox-1B4A
+CableBox-1BA0
+CableBox-2109
+CableBox-2179
+CableBox-23F8
+CableBox-2450
+CableBox-2556
+CableBox-2D68
+CableBox-2D94
+CableBox-32D4
+CableBox-3318
+CableBox-3780
+CableBox-3D10
+CableBox-3FBB
+CableBox-3FE8
+CableBox-404C
+CableBox-4109
+CableBox-428B
+CableBox-428B_0_1
+CableBox-438B
+CableBox-462F_EXT
+CableBox-4BFA
+CableBox-4E75
+CableBox-4F40
+CableBox-507A
+CableBox-5090
+CableBox-5298
+CableBox-52BF
+CableBox-52D5
+CableBox-530D
+CableBox-5319
+CableBox-56D8
+CableBox-588E
+CableBox-5D81
+CableBox-600B
+CableBox-6184
+CableBox-6408
+CableBox-6425
+CableBox-65EE
+CableBox-68B0
+CableBox-6E29
+CableBox-71A8
+CableBox-7698
+CableBox-7B28_2Ghz
+CableBox-7CEA
+CableBox-8148
+CableBox-858F
+CableBox-8D3D
+CableBox-9095
+CableBox-91EC
+CableBox-9618-EXT
+CableBox-99D0
+CableBox-99F2
+CableBox-99F2_2GEXT
+CableBox-9B00
+CableBox-9B2A
+CableBox-9B40
+CableBox-9E2E
+CableBox-A3F8
+CableBox-A6F6_0_1
+CableBox-A760
+CableBox-A886
+CableBox-A990
+CableBox-AC5B
+CableBox-AC88
+CableBox-B744
+CableBox-BE7E
+CableBox-C3CA
+CableBox-C458
+CableBox-C6E6
+CableBox-C756
+CableBox-C7B0
+CableBox-C915
+CableBox-C9AB
+CableBox-D06F
+CableBox-E374
+CableBox-E548
+CableBox-EB38
+CableBox-F333
+CableBox-F800
+CableBox-FC40
+CableBox-FE7E
+CableBox-FF47
+Cafe Petersborg 
+Cake gets you password
+Calum
+Calum-Guest
+Cam AG 10.02
+Capi-DK
+Casa Friis
+Casa68
+CasaDelCrib
+Castens
+CastleRock2
+ChampagnehusetKW
+Charlottenborg
+Chart
+Chris
+Christian - iPhone
+Christian Riewes Guest
+Christiansborg_guest
+Christiansborg_press
+Chromecast
+Chromecast4851.b
+Chromecast5712.b
+Chromecast5758 panasonic
+Chromecast8148.b
+Chromecast8592.b
+Chromecast9701.b
+ChromecastUltra0058.m
+CinemaxX
+Circle K -  Guest
+Circle K - Guest
+CircleK
+Citroen 6UKLT
+City_Meetings
+Citycatering
+Clarion_T3
+Claudias Wi-Fi-netv√¶rk
+Claudia‚Äôs iPhone
+Claus Xperia XZ Premium_1f8a
+Clauss Wi-Fi-netv√¶rk
+ClickShare-1871772787
+ClickShare-1871781704
+ClickShare-1871787287
+ClickShare-1871795471
+ClickShare-1871795992
+ClickShare-1871796613
+ClickShare-1871806567
+ClickShare-1871816588
+ClickShare-1871816680
+ClickShare-1872175833
+ClickShare-1872223384
+ClickShare-Briefing
+ClickShare-CAH
+ClickShare-D3Cartagena
+ClickShare-Kontor 1316
+Coax_players
+ColloC4
+Coor guest
+Copenhagen Coach 11
+CopenhagenBombayGuest
+CopenhagenBombayWifi
+CramerGeorgieva
+Crestron-CVC-COP
+CrownePlaza
+CueNet
+CzEzRHKY
+D5FC
+DAC_dev
+DANSK-IT (2G)
+DANSK-IT GUEST (2G)
+DAY_WIFI
+DB-Corporate-Guest
+DBN-T3
+DE-Devices
+DE-Guests
+DE-Secured
+DEP_ZEN_Mobile
+DFA
+DFDS-guest
+DINBREM
+DIP
+DIRECT-00-HP M280 LaserJet
+DIRECT-04-HP OfficeJet 3830
+DIRECT-04-HP PageWide 377dw MFP
+DIRECT-11-HP ENVY 5540 series
+DIRECT-1a-HP M102 LaserJet
+DIRECT-1d-HP M280 LaserJet
+DIRECT-1d-HP M377 LaserJet
+DIRECT-2741A077
+DIRECT-28M283x Series
+DIRECT-2D-HP OfficeJet Pro 6970
+DIRECT-2kM283x Series
+DIRECT-30-HP M377 LaserJet
+DIRECT-36-HP M477 LaserJet
+DIRECT-3B-HP DeskJet 3630 series £
+DIRECT-3B-HP DeskJet 3630 series ¶
+DIRECT-3B-HP DeskJet 3630 series ß
+DIRECT-3B-HP DeskJet 3630 series ´
+DIRECT-3B-HP DeskJet 3630 series ∞
+DIRECT-3B-HP DeskJet 3630 series ≤
+DIRECT-3B-HP DeskJet 3630 series ∑
+DIRECT-3D-HP DeskJet 3630 series ®
+DIRECT-3D-HP DeskJet 3630 series ©
+DIRECT-3D-HP DeskJet 3630 series ∞
+DIRECT-3D-HP DeskJet 3630 series ¥
+DIRECT-3D-HP DeskJet 3630 series ∑
+DIRECT-40-HP OfficeJet 4650
+DIRECT-43-HP ENVY 5640 series
+DIRECT-43-HP ENVY Photo 7800
+DIRECT-43-HP M281 LaserJet
+DIRECT-46-HP ENVY 4520 series
+DIRECT-4C-HP OfficeJet Pro 8710
+DIRECT-52-HP M452 LaserJet
+DIRECT-52-HP PageWide Pro 477dw
+DIRECT-54-HP OfficeJet Pro 7740
+DIRECT-5H-Android_2ea6
+DIRECT-68-HP ENVY Photo 7800
+DIRECT-6f-HP M477 LaserJet
+DIRECT-74-HP OfficeJet Pro 6960
+DIRECT-76-HP M477 LaserJet
+DIRECT-76M283x Series
+DIRECT-7f-HP Jonas
+DIRECT-84-HP ENVY 5540 series
+DIRECT-8E-HP PageWide Pro 452dw
+DIRECT-8c-HP M277 LaserJet
+DIRECT-90-HP OfficeJet 200
+DIRECT-95-HP M402 LaserJet
+DIRECT-96-HP M377 LaserJet
+DIRECT-96-HP M477 LaserJet
+DIRECT-97-HP ENVY 4520 series
+DIRECT-9A-HP OfficeJet Pro 6970
+DIRECT-9c-HP M377 LaserJet
+DIRECT-A0-HP OfficeJet 4650
+DIRECT-A0-HP OfficeJet Pro 8710
+DIRECT-A3-HP OfficeJet Pro 6970
+DIRECT-AD-HP PageWide Pro PWA
+DIRECT-B3-HP OfficeJet Pro 6970
+DIRECT-B9-HP DeskJet 2600 series ®
+DIRECT-BB-HP ENVY 5640 series
+DIRECT-BB-HP OfficeJet Pro 7740
+DIRECT-BF-HP OfficeJet Pro 8710
+DIRECT-C8-HP ENVY Photo 7100
+DIRECT-DJM283x Series
+DIRECT-DfSTGNSURFACEPRO4ZeEA
+DIRECT-E2-HP ENVY 7640 series
+DIRECT-E4-HP DeskJet 3630 series ∏
+DIRECT-E9-HP OfficeJet Pro 8720
+DIRECT-EC-HP ENVY 7640 series
+DIRECT-ECM2020 Series
+DIRECT-F1-HP PageWide Pro 477dw
+DIRECT-F2-HP OfficeJet Pro 8740
+DIRECT-F4-HP ENVY 4520 series
+DIRECT-F8-HP OfficeJet Pro 8710
+DIRECT-GJM283x Series
+DIRECT-KZSH-559352672162msie
+DIRECT-LS-BRAVIA
+DIRECT-M2M283x Series
+DIRECT-MB Hotspot 16449
+DIRECT-OBSURFACEHUBCPHmsZC
+DIRECT-OTURHAMMERmsL2
+DIRECT-PJGBN5CG80946DJmseq
+DIRECT-PgM283x Series
+DIRECT-Pm-BRAVIA
+DIRECT-QuM283x Series
+DIRECT-SwM283x Series
+DIRECT-a1-HP M254 LaserJet
+DIRECT-a3-HP M280 LaserJet
+DIRECT-ab-HP M277 LaserJet
+DIRECT-af-HP M477 LaserJet
+DIRECT-b3-HP M281 LaserJet
+DIRECT-bW
+DIRECT-bc-HP M377 LaserJet
+DIRECT-bc-HP M452 LaserJet
+DIRECT-cc-HP M280 LaserJet
+DIRECT-d0-HP M377 LaserJet
+DIRECT-d2-HP M377 LaserJet
+DIRECT-dQM283x Series
+DIRECT-db-HP M377 LaserJet
+DIRECT-dd-HP M277 LaserJet
+DIRECT-e6-HP M277 LaserJet
+DIRECT-ed-HP M277 LaserJet
+DIRECT-f0-HP M477 LaserJet
+DIRECT-f4-HP M281 LaserJet
+DIRECT-iDM283x Series
+DIRECT-lUM283x Series
+DIRECT-wcM283x Series
+DIRECT-xy47" Philips 6678
+DIRECT-zrM283x Series
+DK-WIFI
+DKHC Esplanaden
+DKSUND
+DKT-INTERNET
+DKT-KGLSPOT
+DKT-KOSTSKOLE
+DKT-LAN
+DKT-MICROS
+DMT
+DMT-GUEST
+DMT-Kursus
+DN-Guest
+DP_Wireless
+DR-Guest
+DR-PKI
+DR650S-826604
+DRF
+DRF-External
+DRTEMP
+DS-visitor
+DS2017
+DSB-Device_Activation
+DSB-Guest
+DSBSTOG
+DSB_MeetingRoom
+DSB_WLAN
+DSL
+DSL-Guest
+DSRslow
+DTL
+DTL-Guest
+DWR-921-5D33
+Dagbladene
+Dampfaergevej
+Dan's iPhone 7 Black
+DanHostel.City
+DandersMore
+DandersMore - Guest
+DanskNet-99b10c
+DanskNet-9a0f0d
+DanskNet-9a1a6d
+Dare2Join
+Datea - Lautrupsgade 7
+DenStoreFedeHavfrue
+Denbaek1_EXT
+Densou
+DetHerWifi24
+Digital
+Direktionen
+Direktionen_Guest
+Dishy24
+Ditte
+DomenicoRaquel
+Don't Panic
+Donnet
+Dortes
+DrTs3rdworld
+Drivers lounge KBH
+DrivkraftDanmark
+DrivkraftDanmark-Visitor
+Dybros G√¶stenetv√¶rk
+Dybros WIFI
+E3tCPAYs
+E40
+EBBE-3W TMS
+EBBE-MATTERHORN
+EBBE-Onboard
+EEA-Staff
+EGHOLM
+EHNet
+EJBG76_2.4G
+EKF-Guest
+EKFNET
+ELA
+ELLOFOOD
+EMBASSY-PC_Network
+ENG-162
+ESE114
+ESP48_GUEST
+ESPL
+EWH
+EXT
+EZIGuest
+EZIMobile
+EZIWiFi
+Eastbridge
+EddieGuest
+EddieHome
+Edlund PFA NY
+Edvard
+Egons 4
+Egons Turist 06
+Egons turist
+EinarKornerup
+EinarKornerupGuest
+EjendommenPetersborg
+Elev
+Elise
+Eltel NOX Teknik alarm
+EmbassyOfAlbunien
+Emote
+Energistyrelsen
+Entegrate_2.4G
+Erbing
+ErlingsNet
+Eton
+Eurogiro_Guest
+Eventministeriet
+Eventyr Lounge
+Evergas
+EvergasGuest
+F-mobile
+FAK-BYOD
+FAK-D-WIFI
+FAK-GUEST
+FALCK_VSV
+FBI Van #2
+FDK-Admin
+FDK-Guest
+FDK-Member
+FDK-Utility
+FF-T3
+FIG-WiFi
+FJ&FJ
+FLINDT ExtMads2.4G
+FLOS-DK
+FMN-Guest
+FMN-I
+FORENOM
+FPMnet1
+FRIVSTAB
+FRTOG_DSB
+FSTG
+FTIPHONE
+Faar302
+Facebook_LAGKAGEHUSET
+Falck
+Falck_HC_Tryg
+Familienettet
+Familjerum.b
+Fee.int
+Ferencs Wi-Fi-netv√¶rk
+Fiberby.dk-24XUMW
+Finn2Win
+Finsen
+FioriniTrading WiFi
+Fjallexpressen
+Flet
+FletGuest
+FlixBus
+FlixBus Wi-Fi
+Flixbus
+Floating
+Floating Wifi
+Floortop
+Focus
+Fogal-2GHz
+Fogal_2.4GHz_Extended
+ForTab
+Force Motrice 2G
+FormelWifi
+FotoC Guest
+FotoC Intern
+Fourth Capital
+Francesco‚Äôs iPhone 9
+Frede&Frede_2GEXT
+FrederikSlave
+Free WiFi
+Free_Wifi
+Freetrailer
+Fresoma
+Frida
+Frk. Andersen
+Frlr-guest
+Frlr-net
+Front
+FutureWiseAndThirdBrand
+FutureWiseAndThirdBrand Guest
+Fyrholms Nye Wifi
+GAFM
+GED
+GLAHN2.4
+GLRNET
+GMA
+GOLDCARELN-LNK
+GP24976955
+GP25022153
+GR net
+GR net_EXT
+GRP1
+GRnet
+GT-NET
+GTVxtq4u
+GUEST
+GUESTWIFI
+Galaxy N 4
+Gammel Strand 42
+Gammel Strand Guest Network
+Gammelholm152tv
+Gangsted
+Garage.b
+Gefion Group GUEST (2G)
+Genmab-Guest
+GeorgC
+Gjessoe
+GlocalMe_00172
+GlocalMe_02618
+GlocalMe_09877
+GlocalMe_09897
+GlocalMe_12404
+GlocalMe_13634
+GlocalMe_14318
+GlocalMe_15237
+GlocalMe_16749
+GlocalMe_18810
+GlocalMe_22427
+GlocalMe_24200
+GlocalMe_30491
+GlocalMe_31587
+GlocalMe_36597
+GlocalMe_38207
+GlocalMe_44341
+GlocalMe_49267
+GlocalMe_60476
+GlocalMe_62779
+GlocalMe_62961
+GlocalMe_69900
+GlocalMe_74430
+GlocalMe_75376
+GlocalMe_78231
+GlocalMe_80112
+GlocalMe_82177
+GlocalMe_83371
+GlocalMe_88102
+GlocalMe_88193
+GlocalMe_89709
+GlocalMe_90309
+GlocalMe_93433
+GlocalMe_98099
+GlocalMe_99352
+GlocalNet_12049
+Glyptoteket
+Gmp3G9MY
+Gobus-VIP13
+Gobus-VIP16
+Goldschmidt
+Goldschmidt Studio
+Goldschmidt_Guest
+Goldschmidt_wifi
+Grabn Go Burgers Free WiFi 2.4GH £
+Graunephars Outpost
+Green Office
+Grisefarmen
+Grisha's iPhone
+GroCapitalWifi
+GroGuest
+Group TechEdge
+Group TechEdge Guest
+Group-Mobile
+Group88_Guest
+Group88_Staff
+Guest
+Guest Network
+Guest access
+Guest wireless
+Guest-Access
+Guest-GAFM
+Guest-wifi
+Guest1@al-bank
+Guest_HX913148
+Guldsmeden Babette
+Gwmv{efunanmcw}wms}~os>=v:w9:u?:vz>7w{j<qcz/WSK?oS_[/K{}V??Stohn
+G√¶stenetv√¶rk Toldbodgade 2
+H&B Guest
+H&B Wireless
+H+K Strategies Guest
+H+K Strategies Internal
+H302tv
+HACWIFI2
+HAXnet
+HB8-CORP
+HB8-GUEST
+HB8-MOBILE
+HB8-WMS
+HBBSpecial
+HBG19-1TH
+HBG19-2TH
+HBG19-2tv
+HBG19-3TH
+HBG19-4TH
+HC25
+HCA35
+HH
+HKC1
+HMK 93052
+HOFOR-hotspot
+HOTSPOT_DSB
+HP-Print-04-Photosmart 5520
+HP-Print-09-Deskjet 3520 series
+HP-Print-0a-LaserJet 400
+HP-Print-1E-Photosmart 5520
+HP-Print-21-LaserJet 1102
+HP-Print-29-Officejet Pro 8620
+HP-Print-2e-LaserJet 400
+HP-Print-31-Officejet Pro 8620
+HP-Print-31-SAS-Gold-Printer
+HP-Print-32-Officejet 4630
+HP-Print-39-LaserJet 200
+HP-Print-3E-Officejet Pro 8600
+HP-Print-42-LaserJet 200 color
+HP-Print-4E-Officejet 6700
+HP-Print-4F-LaserJet 1025
+HP-Print-54-Officejet Pro 8620
+HP-Print-5B-LaserJet 1102
+HP-Print-63-Officejet Pro 6830
+HP-Print-65-Officejet Pro 8610
+HP-Print-6E-LaserJet 1025
+HP-Print-6E-Officejet Pro X576dw •
+HP-Print-82-ENVY 4500 series
+HP-Print-87-Officejet Pro 8600
+HP-Print-92-Officejet Pro 8610
+HP-Print-94-LaserJet 300
+HP-Print-95-Deskjet 2540 series
+HP-Print-98-ILEE
+HP-Print-9C-A32-3
+HP-Print-A0-Photosmart 7520
+HP-Print-A2-Photosmart 6520
+HP-Print-A5-Officejet Pro 251dw
+HP-Print-AC-Officejet Pro 6830
+HP-Print-BD-Officejet 7610
+HP-Print-C3-Photosmart 5520
+HP-Print-C8-ENVY 4500 series
+HP-Print-D2-Officejet Pro 8600
+HP-Print-E1-LaserJet 1102
+HP-Print-E4-Photosmart 5520
+HP-Print-E9-Photosmart 6520
+HP-Print-EC-Deskjet 2540 series
+HP-Print-F1-Officejet Pro 8600
+HP-Print-be-LaserJet 400 color
+HP-Print-d0-LaserJet 500
+HP-Setup>50-M277 LaserJet
+HPE910.BB0CAD
+HRNC2IS-1
+HSBCIL
+HTC Portable Hotspot 4818
+HUAWEI Mate 10 Pro
+HUAWEI Mate s
+HUAWEI P10
+HUAWEI P10 lite
+HUAWEI P10gl
+HUAWEI P9
+HUAWEI P9 lite
+HUAWEI Y330-U01
+HUAWEI-0C2A
+HUAWEI-11B7
+HUAWEI-3B1B
+HUAWEI-45ED
+HUAWEI-63D8
+HUAWEI-8F29
+HUAWEI-9BD8
+HUAWEI-A397
+HUAWEI-B315-14E2
+HUAWEI-B315-1D2C
+HUAWEI-B315-1DC1
+HUAWEI-B315-4316
+HUAWEI-B315-4747
+HUAWEI-B315-4E26
+HUAWEI-B315-58D3
+HUAWEI-B315-62AB
+HUAWEI-B315-665C
+HUAWEI-B315-6972
+HUAWEI-B315-6E5E
+HUAWEI-B315-6E91
+HUAWEI-B315-8FA0
+HUAWEI-B315-A7CA
+HUAWEI-B315-BCF1
+HUAWEI-B315-CCC6
+HUAWEI-B315-CF89
+HUAWEI-B315-DAA4
+HUAWEI-B315-E815
+HUAWEI-B525-393B
+HUAWEI-B525-3C04
+HUAWEI-B525-3DAA
+HUAWEI-B525-5FD2
+HUAWEI-B525-6BD1
+HUAWEI-B525-731E
+HUAWEI-B525-75EC
+HUAWEI-B525-7BE5
+HUAWEI-B525-7D6C
+HUAWEI-B525-7DED
+HUAWEI-B525-8588
+HUAWEI-B525-867E
+HUAWEI-B525-90ED
+HUAWEI-B525-98EF
+HUAWEI-B525-99CC
+HUAWEI-B525-AFF7
+HUAWEI-B525-B3FA
+HUAWEI-B525-B96E
+HUAWEI-B525-C4A6
+HUAWEI-B593-AA76
+HUAWEI-CA07
+HUAWEI-E5170-A302
+HUAWEI-E5170-B3B1
+HUAWEI-E5172-6220
+HUAWEI-E5172-6F27
+HUAWEI-E5172-D56D
+HUAWEI-E5172-DE2C
+HUAWEI-E5172-DED6
+HUAWEI-E5172-E4E4
+HUAWEI-E5172-EDC6
+HUAWEI-E5172-EF50
+HUAWEI-E5180-1DE2
+HUAWEI-E5180-AA62-S1
+HUAWEI-E5180-AA62-S2
+HUAWEI-E5180-AA62-S3
+HUAWEI-E5180-B0CB
+HUAWEI-E5180-BDA5
+HUAWEI-E5180-EF12
+HUAWEI-E5180-F377
+HUAWEI-E5186-517D
+HUAWEI-E5186-75BC
+HUAWEI-E5186-A99F
+HUAWEI-E5186-F7F7
+HUAWEI-E5330-1FDA
+HUAWEI-E5776-2621
+HUAWEI-F06C
+HUAWEI-FE40
+HUAWEI_P9_4A8B
+HVC
+HVC-2.4GHz
+HW-4G-MobileWiFi-27B5
+Hadrian2
+HakonPhone
+Halkjaer
+Hammer83tv.b
+Hammerensgade8
+Hank
+Hansen
+Hansenstyles_EXT
+Harboe Intern
+Hartmanns
+Hartmanns_Guest
+Havneholmen12E
+Havudsigten
+HcH_5GHz
+Healuxa
+Healuxklinikken
+Heart of Gold
+Heidi Smedmann Albrechtsens iPho ±
+Heimdall
+Heino
+Helium
+Helle
+Hemonto
+Henrik Peter J
+Henrik's Wi-Fi Network
+Hent
+Hent-Gjest
+Hent-Guest
+Hent-Intune
+Hent-Mobil
+Herlev den1
+Hi3G-Guest
+Hi3G-Office
+Hi3G-OfficeMobile
+HjemTQV
+Hjemme-Wifi
+Hoey
+Hoffmann-Guest
+HogsbroRode_2-4GHz
+Holbergsgade
+Holbergsgade10
+Holger 1
+Holger Danske
+Holm Marcher & Co
+Holm Marcher & Co Guest
+Holmenskirke
+Holmgard Management net
+HolmrisB8
+HomeAutomation
+HomeBox-0430_2.4G
+HomeBox-0570_2.4G
+HomeBox-05F0_2.4G
+HomeBox-06C0_2.4G
+HomeBox-07A0_2.4G
+HomeBox-08F5
+HomeBox-0970_2.4G
+HomeBox-0A90_2.4G
+HomeBox-0AE0_2.4G
+HomeBox-0B30_2.4G
+HomeBox-0BF0_2.4G
+HomeBox-0CA0_2.4G
+HomeBox-0DE0_2.4G
+HomeBox-0E90_2.4G
+HomeBox-0EF0_2.4G
+HomeBox-0F70_2.4G
+HomeBox-0FB0_2.4G
+HomeBox-10A0_2.4G
+HomeBox-10C0_2.4G
+HomeBox-15A0_2.4G
+HomeBox-16C4
+HomeBox-1830_2.4G
+HomeBox-1942
+HomeBox-1AE0_2.4G
+HomeBox-1B60_2.4G
+HomeBox-1C20_2.4G
+HomeBox-1C60_2.4G
+HomeBox-1ED0_2.4G
+HomeBox-2270_2.4G
+HomeBox-2549
+HomeBox-2550_2.4G
+HomeBox-2560_2.4G
+HomeBox-2880_2.4G
+HomeBox-2940_2.4G
+HomeBox-2A90_2.4G
+HomeBox-2DB0_2.4G
+HomeBox-2DDC
+HomeBox-2E20_2.4G
+HomeBox-2FF0_2.4G
+HomeBox-3030_2.4G
+HomeBox-3111
+HomeBox-31B0_2.4G
+HomeBox-36A0_2.4G
+HomeBox-37D0_2.4G
+HomeBox-3880_2.4G
+HomeBox-3B00_2.4G
+HomeBox-3B50_2.4G
+HomeBox-3B60_2.4G
+HomeBox-3BF0_2.4G
+HomeBox-3CB0_2.4G
+HomeBox-3DB0_2.4G
+HomeBox-3E30_2.4G
+HomeBox-407E
+HomeBox-43A0_2.4G
+HomeBox-4490_2.4G
+HomeBox-4510_2.4G
+HomeBox-4670_2.4G
+HomeBox-4E40_2.4G
+HomeBox-4E70_2.4G
+HomeBox-5050_2.4G
+HomeBox-54D0_2.4G
+HomeBox-567E
+HomeBox-5681
+HomeBox-5760_2.4G
+HomeBox-5850_2.4G
+HomeBox-589A
+HomeBox-5B00_2.4G
+HomeBox-5B20_2.4G
+HomeBox-5CB0_2.4G
+HomeBox-60C0_2.4G_EXT
+HomeBox-60D0_2.4G
+HomeBox-6430_2.4G
+HomeBox-66F0_2.4G
+HomeBox-6720_2.4G
+HomeBox-6900_2.4G
+HomeBox-6AE0_2.4G
+HomeBox-6B65
+HomeBox-6BE0_2.4G
+HomeBox-6DF1
+HomeBox-6F40_2.4G
+HomeBox-7270_Gaest
+HomeBox-7390_2.4G
+HomeBox-7430
+HomeBox-7430_2.4G
+HomeBox-7440_2.4G
+HomeBox-764D
+HomeBox-77B0_2.4G
+HomeBox-77F1
+HomeBox-7C50_2.4G
+HomeBox-7C60_2.4G
+HomeBox-7D3B
+HomeBox-7D90_2.4G
+HomeBox-80A0_2.4G
+HomeBox-8110_2.4G
+HomeBox-82A0_2.4G
+HomeBox-86B0_2.4G_2GEXT
+HomeBox-86E3
+HomeBox-8760_2.4G
+HomeBox-8790_2.4G
+HomeBox-87B0_2.4G
+HomeBox-8840_2.4G
+HomeBox-8970_2.4G
+HomeBox-8B50
+HomeBox-8D88
+HomeBox-90B0_2.4G
+HomeBox-90F1
+HomeBox-9170_2.4G
+HomeBox-91C7
+HomeBox-9300_2.4G
+HomeBox-93C0_2.4G
+HomeBox-96F0_2.4G
+HomeBox-9730_2.4G
+HomeBox-9920_2.4G
+HomeBox-9990_2.4G
+HomeBox-99D2
+HomeBox-9A80_2.4G
+HomeBox-9BD0_2.4G
+HomeBox-9CF0_2.4G
+HomeBox-A4D0_2.4G
+HomeBox-A650_2.4G
+HomeBox-A800_2.4G
+HomeBox-A850_2.4G
+HomeBox-AB30_2.4G
+HomeBox-AB50_2.4G
+HomeBox-ABD0_2.4G
+HomeBox-ABF0_2.4G
+HomeBox-AC00_2.4G
+HomeBox-AEA0_2.4G
+HomeBox-AEE0_2.4G
+HomeBox-AEE0_2.4G_2.4GEXT
+HomeBox-B0E0
+HomeBox-B103
+HomeBox-B150_2.4G
+HomeBox-B160_2.4G
+HomeBox-B1F0_2.4G
+HomeBox-B540_2.4G
+HomeBox-B6C0_2.4G
+HomeBox-BAC0_2.4G
+HomeBox-BAD0_2.4G
+HomeBox-BB60_2.4G
+HomeBox-BEE1
+HomeBox-C090_2.4G
+HomeBox-C0B0_2.4G
+HomeBox-C1F0_2.4G
+HomeBox-C300_2.4G
+HomeBox-C530_2.4G
+HomeBox-CB30_2.4G
+HomeBox-CE30_2.4G
+HomeBox-CFC0_2.4G
+HomeBox-D085
+HomeBox-D150_2.4G
+HomeBox-D1D5
+HomeBox-D3A0_2.4G
+HomeBox-D631
+HomeBox-D8A0_2.4G
+HomeBox-DAF0_2.4G
+HomeBox-DDD0_2.4G
+HomeBox-DDF0_2.4G
+HomeBox-DE15
+HomeBox-DF70_2.4G
+HomeBox-E380_2.4G
+HomeBox-E5A0_2.4G
+HomeBox-E5D0_2.4G
+HomeBox-E6A0_2.4G
+HomeBox-E700_2.4G
+HomeBox-E950_2.4G
+HomeBox-EAB0_2.4G
+HomeBox-EB30_2.4G
+HomeBox-EC07
+HomeBox-EFE0_2.4G
+HomeBox-F350_2.4G
+HomeBox-F530_2.4G
+HomeBox-F6B0_2.4G
+HomeBox-F800_2.4G
+HomeBox-F930_2.4G
+HomeBox-FA00_2.4G
+HomeBox-FDD0_2.4G
+HomeBox-FDF0_2.4G
+HomeBox-FE10_2.4G
+HomeBox-FEF0_2.4G
+HomeBox-FF40_2.4G
+HomeStr3
+Homenet
+Homewifi
+Hotel Bethel
+Hotel Osterport Guest WiFi
+Hotel Skt Annae
+Hotlips
+Hotsplots
+Hotspot 7E38
+Huawei-0DD2
+Huawei-1EB6
+Huawei-5ED8
+Hudkraeftklinikken_2.4G
+Hudkraeftklinikken_Guest
+HulaBula
+Hytten
+IB_UB_Guest
+IB_UB_StoreMusic
+IB_UB_WiFi
+IB_WMS
+ICES-STAFF
+IDA-Inovate
+IDA-Public
+IDC-VISITOR
+IF
+IF Radius
+IF-guest
+IKAS_Guest
+INET_HX913148
+ISCAWLAN
+ISS Mobil router
+ISS-Internet
+ITV-105
+ITdrift@al-bank
+IWLHH
+IkanNet
+IkanNet_5GHz-EXT
+Ikas_Restricted
+InTu@al-bank
+Inertnet-poc
+Infomon
+IngIntern
+IngMac
+IngMobil
+Innovation_Norway_Guest
+Installation07
+Instuktoer
+Integra
+Inteno-E1E2
+Internet
+Internet01
+Internet2
+Internettet
+InteviDS_CL
+InteviDS_MAC
+Iservice
+Izumi
+J
+JD Staal
+JDGuest
+JDK
+JDWF_Device
+JENSEN NEUGEBAUER Guest
+JFP
+JFP-GUEST
+JGO
+JKershaw‚Äôs iPhone
+JLSGuest
+JLSSecure
+JN
+JPPOL24Ghz
+JYEb63nY
+JamaalCharles
+James ‚Äôs iPhone
+Jans WLAN-Netzwerk
+JansInternetButik
+Jensen
+Jensen Retail Network
+Jensen-guest
+JensogSacha
+Jesper
+JfYqgAh9
+Jocie
+JoseyTana24
+JsaMvnhK
+Jsnet
+JulleGabsen
+JustasHome 2.4
+Justt-visiting
+Justt-working
+KADK-Employee
+KADK-Mobile
+KADK-Public
+KADK-Student
+KAPLAN
+KAS-Jomsborg
+KB
+KB-ADM
+KB45
+KBH BUS 70
+KBH Bus 63
+KBH Bus 84
+KBH Bus 86
+KBVin
+KBVin_Guest
+KE-WPA2
+KF
+KFNEW
+KFS-INTERN
+KGL-LAN
+KIC Copenhagen
+KIC IPhone
+KIELGASTNAVA
+KINNERTON
+KITCHEN
+KK-Public
+KK_Bro_WiFi
+KNBC (2G)
+KNBC GUEST (2G)
+KNS-105
+KPC_Guest
+KPC_InternByggeplads
+KR
+KU Guest
+Kaerlighedshulen
+Kafferiet
+Kamapa108
+Kamvig
+Kareem_Net
+Kaspelli
+Kbh Roklub
+Keolis
+Kevin Murphy
+KhIphone
+Khersegunde
+Kingcrib_EXT
+Klara
+Klik km
+Knuths Forlag
+Kobenhavn1_guest
+Kommandocentralen
+Kongen
+Kongernessamling
+Konig
+Konig_guest
+Kontor Wi-Fi
+KorfJacobsson
+Kreab
+Kreab-guest
+Krogs Musik
+Kudos Guest
+Kudos Net
+KulturRejser
+Kuntkes 2
+Kƒ±van√ß iPhone‚Äôu
+LANGELAND
+LB TUR TELEMARK NR 5
+LESpublic
+LETZ SUSHI Internal
+LM-Data
+LM-Guest
+LRLAW-GUEST
+LRLAW-LAN
+LT15i
+Lagkagehuset
+Lahna2
+Lai2-2-4GHz
+Lakrids
+Laluna24
+LamaNet
+Langelinie
+Langelinie-Guest
+Larsen2
+LarsenVFX
+LarsenVFX-Guest
+LattueWirelessMobile
+LeMasterCrib
+LegaLink
+Lejlighed5
+Lene Riisgaards iPhone
+Libratone 10C3B4
+Lillemisse
+Linde Gruppen
+Linksys Extender Setup
+Linksys08843
+Linksys21475-guest
+LionGuest
+LionsDen
+Lisas Samsung
+Litochoro
+Little Apple Guests
+Little Apple Intern
+LogosDesign
+Lohmanns
+Lounge LGD
+LukasogJacq.b
+Lynx29E214
+Lynx31ACCC
+M2 Construct
+MAGNUSSON
+MAKESNOSENSE_03:68:B0
+MARK & AJ
+MB Hotspot 11244 2.4 GHz
+MB Hotspot 14766
+MB Hotspot 14874 2.4 GHz
+MB Hotspot 15838
+MB Hotspot 17727
+MB Hotspot 18247
+MB Hotspot 22788 2.4 GHz
+MB Hotspot 25222
+MB Hotspot 25355
+MB Hotspot 25618
+MB Hotspot 26253
+MB Hotspot 26462
+MB Hotspot 27899
+MB Hotspot 28255
+MB Hotspot 28727
+MB Hotspot 31525
+MB Hotspot 31931
+MB Hotspot 35218 2.4 GHz
+MB Hotspot 36511
+MB Hotspot 36587
+MB Hotspot 37798
+MB Hotspot 37824
+MB Hotspot 37972
+MB Hotspot 39766 2.4 GHz
+MB Hotspot 44465
+MB Hotspot 46495
+MB Hotspot 48352 2.4 GHz
+MB Hotspot 52722
+MB Hotspot 53158
+MB Hotspot 53611 2.4 GHz
+MB Hotspot 58581
+MB Hotspot 61553 2.4 GHz
+MB Hotspot 61613 2.4 GHz
+MB Hotspot 61675 2.4 GHz
+MB Hotspot 64893
+MB Hotspot 67479
+MB Hotspot 68527
+MB Hotspot 68781
+MB Hotspot 71627
+MB Hotspot 72444
+MB Hotspot 72737 2.4 GHz
+MB Hotspot 74439
+MB Hotspot 76318 2.4 GHz
+MB Hotspot 77277
+MB Hotspot 82944
+MB Hotspot 83141
+MB Hotspot 84945
+MB Hotspot 85529
+MB Hotspot 86135
+MB Hotspot 86931 2.4 GHz
+MB Hotspot 91796
+MB Hotspot 93492 2.4 GHz
+MB Hotspot 93813 2.4 GHz
+MB Hotspot 94297
+MB Hotspot 95111 2.4 GHz
+MB Hotspot 98539
+MB Hotspot 99725 2.4 GHz
+MB WLAN 05593
+MB WLAN 19957
+MB WLAN 26269
+MB WLAN 51559
+MB WLAN 79802
+MCI
+MCnet
+MD
+MDC_2.4
+MDTGUEST
+MDWLAN
+MED-105
+MF910_85EEE6
+MF910_A93ECF
+MF910_A95924
+MF910_AB0B2C
+MF910_B81CAA
+MFqnUiYUrtisYnFIJ-2.4
+MICROS
+ML-Guest
+ML-WiFi
+MMF-Wifi
+MOBILE WIFI 1-1949
+MOVEit_E19A
+MOXA
+MP Guest
+MSBP
+MSC-Public
+MTN-MobileWiFi-E5573
+MULLOX
+Maassarani
+Madkastellet
+Maegler
+MaerskdDigital
+Maj-Invest
+Marble church Cafe
+Marek samsung
+MaritimeDanmark
+Marriott_GUEST
+Matrikel1 Guest
+Matrikel1 Member
+Matrikel1 terminal
+Matrikel1-Teknik
+Medarbejder@al-bank
+Mediaplanet Copenhagen
+Mediaplanet Guest
+Meeting room i4
+Meetingroom
+MeganogNicklas1
+Mejse
+MelaMain_2.4G
+Mellemfortet Antenne
+Mensch
+MetNord-Public
+MetNord-Zublin
+MetteKure
+Mexican Embassy East
+Mexican Embassy North
+MiWire-AP
+Michael's iPhone
+Michela‚Äôs iPhone
+MicrosDK
+MicrosHH
+MikroTik-67D7FF
+MikroTik-6C52B4
+Min Iphones Wi-Fi-netv√¶rk Boye
+Minnie8484
+Miraklet
+Miriam Kuhlmanns iPhone
+Mistletoe_Apartments
+MitNet3b
+MitWiFi
+MitWifiAHM
+Mobiilne-EVM
+Mobil
+MobilC
+MobilScan
+Mobilepayments
+Mobility
+Modern-workplace
+Moeller-Wifi
+Mohammad afshins iPhone
+Molecule
+Molktes-Adm
+Molly
+Molt Wengel Secure
+Moltkes
+MommyMe
+Monaharry1
+Monies
+Monies GUEST
+Morten Ib
+MortensNetvaerk
+Moto G (5) 4182
+Moto G - MKT
+Mr. Rogers Neighborhood. 
+My ASUS_6859
+MyVolvoBT48xc
+MyVolvorYj5MR
+Mybanker
+Mybanker Guest
+N4nk34Uj
+NATMUSAD
+NATMUS_Guest
+NB-HOLMENSKIRKE
+NCG
+NCG-TMP
+NCH
+NCWLAN
+ND-MOBILE
+ND-OFFICE
+NE
+NEFO_SMV
+NETGEAR
+NETGEAR09
+NETGEAR12
+NETGEAR14
+NETGEAR23
+NETGEAR24
+NETGEAR25
+NETGEAR28
+NETGEAR33
+NETGEAR42
+NETGEAR53
+NETGEAR74
+NETGEAR75
+NETGEAR77
+NETGEAR79
+NETGEAR80
+NETGEAR81
+NETGEAR90
+NETGEAR99
+NICHEHUSET
+NKGuest
+NKSmartNet
+NMRemployee
+NMRvisitor
+NODE-0A60
+NORD1014V
+NORDEA
+NORDIC OFFICE
+NORGE
+NORRPORTEN
+NRE_Guest
+NRE_Intern
+NSP Internal
+NTGR_VMB_1486644654
+NT_Guest
+NVR9ca3a93ddc92
+NYHOLM
+NageGuest
+NajaClausVincent
+Nanoleaf Aurora 52:b3:c3
+NelDev
+Nellemann Guest
+NellemannAP
+NellemannInternal
+Nemeth-Sigetty
+Nepal-Embassy
+NetComm 8265
+Netenet
+Netgear68
+Network-14cc20e0b5ef
+Niger WIFI
+Nigerwifi
+Niklas Iphone X
+NineUnited
+NineUnited Guest
+NineUnited Mobile
+No. 56 by Habitat Collection 2.4 §
+No. 56 by Habitat Collection 2.4 ß
+No. 56 by Habitat Collection 2.4 ®
+No. 56 by Habitat Collection 2.4 ©
+No. 56 by Habitat Collection 2.4 ™
+No. 56 by Habitat Collection 2.4 ´
+No. 56 by Habitat Collection 2.4 ≠
+No. 56 by Habitat Collection 2.4 Æ
+No. 56 by Habitat Collection 2.4 ∞
+No. 56 by Habitat Collection 2.4 ±
+No. 56 by Habitat Collection 2.4 ≤
+No. 56 by Habitat Collection 2.4 ∑
+Noa Noa LAN
+Nokia 3
+Nomess Cph
+Norden
+Nordhavn
+Nordic Health
+Nordic Race
+NordicNetcare
+NordicNetcareGuest
+Novaro Wireless
+NyboeNet
+Nyhavn
+NyhavnRejser
+NyhavnRejserGuests
+Nykredit
+OFO
+OFPNET
+OGD
+OPPO Find7
+ORBI35
+ORBI67
+ORBI71
+Oaklins WiFi
+OceansFour
+OddFellow Guest
+Odin
+Oekaer
+Office 
+Office Club
+Office Club - Guest
+Ollex-bus-wifi
+Omicron Ceti
+Omni20_Setup_F63
+Omni_39F370
+Omni_3A08B8
+Omni_3B8990
+Omni_3C9080
+Omni_41F8F8
+Onat iPhone
+OnePlus3
+Optiker Guest
+OresundstagochDSB
+Original Coffee
+Oscar
+Oskar_Group
+Ottosnet
+OurCamp Mesh
+P7MzVbvH
+PAnet_2GEXT
+PBher
+PDA-105
+PDBWIFI
+PERE.COM_2.4
+PERSONAL STYLE
+PERSONALSTYLE
+PFA
+PFA-Guest
+PFA-Test
+PID-WIFI
+PJ
+POL
+POLGUEST
+PS4-A9E4A7DFF521
+PS4-DCE382CE99CE
+Paawireless
+Paedagogisk-net
+Pakhus_2GHz
+PalaceWIFI
+Pandi_Guest
+Pandi_emp
+PandoraWIFI
+PanpanÁöÑ iPhone
+Paralenz
+PartIIProd
+PatrikGalaxy
+PauliNet
+Paustian
+PaustianGuest
+PederSkram Arangement-Kustode
+PederSkramAdmin
+PederSkramGUEST
+Pelican
+Pelican Storage 
+Penthouse
+Perina
+Petchpa
+Peugeot 5MX44
+Peugeot 6UKLT
+Pfisterer
+Phoenix-WPA
+PilsborgNet
+Pino
+Pjerrot
+Plesner-Guest
+PlesnerIphone
+Portthru
+Poze.CPH
+Practio
+Practio-guest
+Presidents
+Pretty fly for a WiFi
+Preuss 2.4
+PrimoLocal-MAC
+Produktion1206
+Produktion1206-guest
+Pronestor
+Provstikontoret
+Psykolog Mette Haaning 2
+Public
+PublicWork
+Puori
+Puori Guest
+REBEL
+REMOTE58ktyn
+REX
+REX Division
+RM E70025 0850111
+RM Guest
+RP-DK
+RP5G
+RR507855
+RRA-GUEST
+RRA-PROD
+RRC_guest
+RTH1885-WIFI
+RV2
+RY10
+Radius
+RadiusGuest
+RalphSiri
+RalphSiri_2.4Gre
+RalphSiri_EXT
+Ramis og Elisabeth 
+Ramustang
+Rasmussen
+Red Buses 1009
+Redakt√∏rKursus
+Redmi
+RejseWifi
+Repeater_e8abfab0a4e3
+Residensen
+Retssal_B
+Retssal_C
+Reventlow
+Revisor tlf. 60609191
+Rhenja
+Rhys' iPhone
+RieweCaballero
+Rigmor
+Rio Bravo free wifi
+RoadEyes_Pers recONE
+RoamWiFi-170046
+RoamWiFi-177515
+RoamWiFi-179680
+RoamWiFi-201775
+RoamWiFi-225826
+Roamingman_00874
+Roamingman_06496
+Roamingman_09580
+Roamingman_11460
+Roamingman_12458
+Roamingman_14277
+Roamingman_22211
+Roamingman_36626
+Roamingman_46732
+Roamingman_47097
+Roamingman_52684
+Roamingman_58574
+Roamingman_60137
+Roamingman_68814
+Roamingman_75032
+Roamingman_79926
+Roamingman_90191
+Roamingman_91428
+Roamingman_92692
+Roamingman_97900
+Roamingman_99966
+Roberts iPhone
+Roed
+Ronet
+RoyalNetwork
+RubyStudio
+Rud Pedersen
+Rufus2
+Rufus2.b
+Ruoe-2G
+Ry_Bussen
+Ryvang
+R√©seau Wi-Fi de charles
+S-Mobile
+S-Montage
+S77-car
+SA-Wifi
+SA-admin
+SA-guest
+SA-meeting
+SAP
+SAS WiPoint
+SAhjem2
+SB Guest
+SB Wi-Fi-net
+SCA_POS
+SCA_voice
+SCT-Chauff√∏r
+SCT_Kbh
+SDP_CPH
+SEAT_WLAN_f46996
+SEB2.4G
+SECHER_SCOTT
+SECHER_SCOTT_GUEST
+SEC_LinkShare_54c3c8
+SEC_LinkShare_969e6d
+SFR-MD
+SFToff
+SIT-BYOD
+SIT-GUEST
+SIT-PROD
+SITELWireless
+SKAUREIPURTH-GUEST
+SKAUREIPURTH-WIFI
+SKF
+SLPLAW
+SMH
+SMK-Guest
+SMV_Guest
+SMV_Office
+SONOS_WiFi
+SP-KLV01
+SPEJDERBUTIK
+SPEJDERGUEST
+SSB-DRS
+SSID
+STALBAN
+STALBANS_Guest
+STHVK KBH
+STHVK TRSJ 4G
+STHVK TRSJ GUEST
+STHVKTRSJ IN2
+SU1internet
+SUND-Museion
+SUPERMARCO
+SVANE-HP_NetvÊrk
+SYNC_XU70TM77
+SYNC_YU8J0261
+Safetyservice
+Sagio wifi 03
+Samantha‚Äôs iPhone
+Sandby
+Saul
+Saxberg
+Sca_BoH
+Sca_VoIP
+Schmidt 3
+SchmolkerRepublic
+Schnohr_Klinik
+Sea View
+Seaplane
+SegGuest
+SegKontor
+Sel√§√§√§21
+ShowProduktion Asus 02
+SiemensBT_2.4
+SiemensFHA
+Siemens_Hotspot
+Sigicom-24
+Signe og Martin
+Signe1268
+Signium International
+SimpleSite ApS - Guest WiFi
+SimpleSite ApS - TV
+SimpleSite ApS - Wireless WiFi
+SisselBisgaard
+SitelGarmin2017
+Skagerak
+Skagerak-Guest
+Skjold
+Skogoy
+Skurvogn-4313
+Skynet
+Skynet2
+Sluseholmen@al-bank
+SmartGate_013333
+Smartisan personal hotspot
+Soigneur
+SolidCPH2.4
+Solitwork_Guest
+Solitwork_Internal
+SondreFrihavn_1B
+Sonos2
+Sovev√¶relse.b
+Spetzn√¶se
+Spisinyhavn
+Staehr Net
+Staff-gafm
+Steen
+Steff
+Stohn
+Storebrand-WA
+Stormen
+Strandv1
+Streamingtest 2.4 G Hz DrayTek
+StrommaWiFi
+Studio 25
+Subnet2015
+Suck my balls mate
+SugarNet
+SugarPublic
+Summ
+Sundhed-Guest
+Sundkrog
+Sune's Wi-Fi Network
+Superned
+Suzumuchi
+Suzumuchi GUEST
+Svanemoellenhavn
+Svanen
+SveGuest
+SveKontor
+Svends Wi-Fi-netv√¶rk
+Sverige
+Swebus 9935
+Swingerklubben
+System_NameWs473
+TAXA 4X35 1-168
+TAXA 4X35 1-1827
+TAXA4X35_0035
+TAXA4X35_0077
+TAXA4X35_0124
+TAXA4X35_0313
+TAXA4X35_0351
+TAXA4X35_0447
+TAXA4X35_0458
+TAXA4X35_0502
+TAXA4X35_0550
+TAXA4X35_0604
+TAXA4X35_0661
+TAXA4X35_0709
+TAXA4X35_0754
+TAXA4X35_0856
+TAXA4X35_0857
+TAXA4X35_0858
+TAXA4X35_0982
+TAXA4X35_1080
+TAXA4X35_1174
+TAXA4X35_1184
+TAXA4X35_1193
+TAXA4X35_1202
+TAXA4X35_1258
+TAXA4X35_1316
+TAXA4X35_1425
+TAXA4X35_1517
+TAXA4X35_1526
+TAXA4X35_1544
+TAXA4X35_1572
+TAXA4X35_1600
+TAXA4X35_1821
+TAXA4X35_1850
+TAXA4X35_1936
+TAXA4X35_1969
+TAXA4X35_2026
+TAXA4X35_2151
+TAXA4X35_2166
+TAXA4X35_2266
+TAXA4X35_5238128
+TAXA4X35_5276068
+TAXA4X35_5514055
+TAXA4X35_5514207
+TAXA4X35_5514209
+TAXA4X35_5535078
+TAXA_4X35_1-0132
+TAXA_4X35_1-0739
+TAXA_4x35_0665
+TBL
+TBPB-2.4
+TBYousee24GHz
+TDC
+TDC-0EC0
+TDC-1444
+TDC-1955
+TDC-1AC8
+TDC-1F88
+TDC-232C
+TDC-2EC4
+TDC-2EE0
+TDC-3C84
+TDC-3F44
+TDC-3FE0
+TDC-4ED0
+TDC-5C58
+TDC-6684
+TDC-7788
+TDC-90FC
+TDC-BEDC
+TDC-C081
+TDC-C110
+TDC-C29C
+TDC-C3A0
+TDC-C635
+TDC-C775
+TDC-CSL
+TDC-D11C
+TDC2709
+TDCBusinessRouter-1E60_2.4G
+TDCBusinessRouter-2F20_2.4G
+TDCBusinessRouter-3B50_2.4G
+TDCBusinessRouter-3F40_2.4G
+TDCBusinessRouter-3F40_Gaest
+TDCBusinessRouter-4700_2.4G
+TDCBusinessRouter-4CD0_2.4G
+TDCBusinessRouter-6420_2.4G
+TDCBusinessRouter-ACA0_2.4G
+TDCBusinessRouter-EF00_Gaest
+TDCBusinessRouter-F070_2.4G
+TDCBusinessRouter-F7F0_2.4G
+TDCBusinessRouter-FF30_2.4G
+TDC_Guest
+TELE
+TELIA-550F32
+TENG
+TEST
+TF-WIFI_02D308
+TF-WIFI_253EEA
+TFH3MUhM
+TGIF-Guest
+THY
+TL-w800
+TLSN
+TNWLAN
+TP-LINK_179C
+TP-LINK_2.4GHz_4ECAB5
+TP-LINK_2.4GHz_DEDEBC
+TP-LINK_2.4GHz_DEE951
+TP-LINK_2551
+TP-LINK_71D304
+TP-LINK_71FCC8
+TP-LINK_71FCEC
+TP-LINK_7E362A
+TP-LINK_8E6D
+TP-LINK_9B6D9D
+TP-LINK_ED57_2GEXT
+TP-LINK_Extender_2947A4
+TP-LINK_M5350_ADF473
+TP-LINK_POCKET_3020_4D83DB
+TP-Link_1196
+TP-Link_1604
+TP-Link_9F2E
+TP-Link_CB93
+TP-Link_CE32
+TRAFALGAR WiFi 38
+TRANSEARCH
+TREKKER-X3
+TRM_guest
+TURNER & KO
+TURNER & KO guest
+TV
+Tage's Wi-Fi Network
+Taxa 4g Wifi 1-1293
+Taxa4x35_5301612
+Tekinoktay
+Teknik
+Teknikon10
+Telenor123
+Telenor16F7CB
+Telenor18A68F
+Telenor18FBA9
+Telenor2FDED9
+Telenor310AD3
+Telenor320899
+Telenor3EE6DF
+Telenor40D087
+Telenor442977
+Telenor4D33C3
+Telenor4D33C3_EXT
+Telenor5756C4
+Telenor575B38
+Telenor6AC017
+Telenor6ACDAD
+Telenor779H
+Telenor88EAED
+Telenor88EC9F
+Telenor91DED7
+Telenor94AU
+Telenor9977AF
+Telenor9A65E7_EXT
+TelenorA0E223
+TelenorA8127B
+TelenorABA1B5
+TelenorAC151D
+TelenorAC98C5
+TelenorACF293
+TelenorAEA6BF
+TelenorAEDDE1
+TelenorAFBBAB
+TelenorB75F5F
+TelenorBA8445
+TelenorBAEB97
+TelenorBD2D77
+TelenorC5D751
+TelenorD5B3C5
+TelenorE04723
+TelenorEF2FAB
+TelenorEF3937
+TelenorEF8A79
+TelenorF19C60
+TelenorF27F0E
+TelenorF3D6B5
+TelenorJXXF
+TelenorPernille
+TelenorWrap
+Telia-73466B
+Telia-740679
+Telia-DCD5E1
+TeliaAP1BFC21_2G
+TeliaGateway-EXT1
+TeliaGateway30-91-8F-19-D9-E3
+TeliaGateway30-91-8F-1A-02-43
+TeliaGateway30-91-8F-6E-24-27
+TeliaGateway30-91-8F-6F-16-65
+TeliaGateway30-91-8F-72-19-01
+TeliaGateway30-91-8F-7D-DB-41
+TeliaGateway30-91-8F-7E-3A-63
+TeliaGateway30-91-8F-97-C2-37
+TeliaGateway30-91-8F-C9-07-17
+TeliaGateway30-91-8F-C9-17-2F
+TeliaGateway30-91-8F-C9-22-ED
+TeliaGateway30-91-8F-CD-62-81
+TeliaGateway30-91-8F-E1-0E-F3
+TeliaGateway58-98-35-37-1E-D1
+TeliaGateway9C-97-26-B4-09-EB
+TeliaGatewayA4-B1-E9-2C-A2-0A
+TeliaGatewayA4-B1-E9-D8-38-41
+Tella Consultants_2.4G
+Teltonika
+Tep4G_0338
+Terminal
+Thai-Cargo
+Thales_Guest
+The Port
+The mobile 
+TheDahlquists
+TheOffice
+ThePaynes
+Thomas's iPad
+Thorkild
+Thorvaldsens_Museum
+Tims Wi-Fi-netv√¶rk
+TitanPower
+TivLev
+TivSAM
+Tivoli Hotel & Congress Center
+TivoliGuest
+Told2012
+Toldbod
+Toldboden
+Toldboden Chrome.b
+Toldboden K√∏kken-Kontor
+Toldboden-Social_Login
+Toldbodgade
+Tolds Wi-Fi-netv√¶rk
+Tongthanapoom
+TowerOfPower
+Traffic Lab Enterprise
+Traffic Lab Guest
+Traffic Lab Mobile
+Traffic Lab Services
+TrafikUV
+Trimble Service (5518500190)
+Trimble Service (5708571249)
+Trines iPhone
+Triton-Guest
+Troels Mi-Fi
+Trollbeads
+Trollphone 20
+Tv
+UNDERNETTET_Main room
+UNDERNETTET_cowork
+Udstilling
+Ulrik
+Undervisning
+Urban Rigger01
+Urban Tech
+Uroaming_017414
+Uroaming_023900
+VALENTIN
+VAS 5
+VD-Internet-Ansat
+VD-Internet1
+VD-Wlan
+VD-iPad
+VD_MOBIL
+VD_SKANDINAVIA
+VIBES
+VIDEO
+VIVE-Guest
+VIVE-WiFi
+VJSAP
+VPN
+VS
+VS12-2
+VT 14
+VT 15
+VT 16
+VTC-1149
+VW Passat WiFi
+VW WLAN
+VW WLAN 1252
+VW WLAN 2714
+VW00592
+Vaffelbageren
+Vangsgaard
+Vas1
+Ved Stranden 10
+Vedel
+Vega IT WIFI
+Vertigo
+Viiiic
+Vikingbus
+Vildandegade12
+Vilneda
+VinderskovTuborg
+VismaDL
+Vitanova Guests
+Vitaviva2
+Vitus
+VodafoneMobileWiFi-9C3409
+VodafoneMobileWiFi-FC5675
+Vogn 51-1
+Voxogo
+Voxogo Guest
+Vrfra5A3
+W-DEV-ACC
+W-NET-6CC2
+W001_Guest
+W01_18D27687835E
+WCL
+WDH-CELL
+WDH-GUEST
+WDH-WLAN
+WDP
+WGO
+WI-FIT
+WIFI
+WJCML28_24D
+WJCML28_B24
+WK GUEST
+WK Mobile
+WK WIFI
+WK Xternt
+WLAN
+WLAN Repeater
+WLAN1-6B9DA7
+WLAN6198
+WLANI
+WLANSSID
+WLANWork
+WLAN_DSB
+WNet
+WNet_Guest1
+WW Store
+WWW-SIT
+Watson
+Weilbach2
+Wernerfelt
+WiFi-Guest
+WiFi-Users
+WiFi001
+WiFi_18048
+WiFi_18740
+WiFi_22114
+WiFi_35566
+WiFi_37170
+WiFi_38874
+WiFi_73852
+WiFi_OBDII
+WiFi_with_password
+WiFimodem-4D23
+WiFimodem-BEF5
+WifiEgg_29078
+Williams Wireless 2
+Williamsinternet
+Windows Phone1490
+Wireless 3
+Witt
+Worldtrans
+Wotan master
+Wrong bong
+WuTangcLan
+XDuJvsGf
+XDuJvsGf_2GEXT
+XM1@al-bank
+XNXX.com
+Xcomglobal310382
+Xperia X Compact_a836
+Xperia Z5_b6e5
+YBB16854
+YEAHYEAH_WiFi
+YICarCam_D47DE9
+YICarCam_c9b708
+YOUALLT
+YSbtFGga
+YTS6
+YTS8
+Yggdrasil
+Yousee-B315-1BFB
+Yousee12
+Youseent
+Youzee
+YuAPhMGq
+ZARA
+ZDEPARTMENT
+ZGUEST
+Zenit0909
+Zeshan H. Wifi
+Zia0036
+ZimmerHolding
+ZyXEL
+ZyXEL NBG-418N v2
+ZyXEL0CE700
+ZyXEL0CE9C4
+ZyXEL1
+ZyXEL2
+ZyXEL2A7F7A
+ZyXEL2ACEE2
+ZyXEL2C81DC
+ZyXEL2DEE48
+ZyXEL3
+ZyXEL3AD98D
+ZyXEL3AEE15
+ZyXEL411938
+ZyXEL41456C
+ZyXEL4363C8
+ZyXEL45C902
+ZyXEL5F0779
+ZyXEL5F9995
+ZyXEL7101FB
+ZyXEL71E8DD
+ZyXEL7280BD
+ZyXEL72A2AD
+ZyXEL72ABB9
+ZyXEL760AFC
+ZyXEL762A28
+ZyXEL76A5F9
+ZyXEL8DA3DF
+ZyXEL8DC1F7
+ZyXEL8E44D7
+ZyXEL8E5DD3
+ZyXEL951325
+ZyXEL951F25
+ZyXEL96F484
+ZyXEL9D7739
+ZyXEL9DB17D
+ZyXEL9DD361
+ZyXELBFE279
+ZyXELC2F57B
+ZyXELC8675D
+ZyXELC8AB9D
+ZyXELCC5717
+ZyXELCC7727
+ZyXELCD0487
+ZyXELCD217F
+ZyXELD5ECE8
+ZyXELDEAE7A
+ZyXELDED7D2
+ZyXELHOLBERG
+ZyXEL_0901
+ZyXEL_19DC
+ZyXEL_20C4
+ZyXEL_2484
+ZyXEL_90E4
+ZyXEL_A134
+ZyXEL_EEFC
+Zyxel_1BCD
+Zyxel_8D51
+_T&L_CORP
+_WaiFai_
+a-guest
+adazio
+ae
+ae-guest
+ae-tek
+ae_guest
+ahv9tauk
+airportthru
+airtame-1. sal
+airtame-7B971n
+airtame-8gLRIE
+airtame-IT
+airtame-YcVshI
+alhuset
+amaliegadekolle
+amba
+apple
+applesis
+aqndivo4_2GEXT
+arcticzone
+ascnet
+asterix
+atv
+avhybmsq
+avnt-unifi
+b133_Guest
+b133_wifi
+bahne_cert
+bahne_guest
+basf4guests
+bbqadgjq
+bendtsen
+birgitte
+blidder_2.4G
+bluesky
+breakoutroomkbh
+burrosnoflakeDOS
+bz3mbfgr
+cBrain
+cBrain Guest
+cb-public
+cerebrally2
+chemie2
+chili-cheesetops
+christofferswifi
+cili-24
+comonnetwork
+copi design
+corpz
+cp-dmz
+d4ppdfh7
+dacapo
+daniel
+dd-wrt
+deakudibal
+demfis
+dh9u5rz3
+dkks
+dlink-4654_plus
+dlink-6040
+dlink-6E6C
+dlink-76DC
+dlink-9EFC
+dlink-BE5E
+dlink-C984
+dlink-E04C
+dlink_DWR-116
+dmka57fx
+dnh43dx4
+domguest
+ds
+ds7nn5s7
+dvkn57t4
+eboks-backup
+eboks-guest
+eboks-intern
+eboks-mobile
+econ-guest
+econradio
+eduroam
+egons turis
+egons turist
+egons turist 5
+ekstern
+erhaehaerfhaefaerhaerhaetjtjaser §
+erhaehaerfhaefaerhaerhaetjtjaser •
+erhaehaerfhaefaerhaerhaetjtjaser ®
+erhaehaerfhaefaerhaerhaetjtjaser ™
+erhaehaerfhaefaerhaerhaetjtjaser ´
+erhaehaerfhaefaerhaerhaetjtjaser Ø
+erhaehaerfhaefaerhaerhaetjtjaser ∞
+erhaehaerfhaefaerhaerhaetjtjaser ≥
+erhaehaerfhaefaerhaerhaetjtjaser ¥
+erhaehaerfhaefaerhaerhaetjtjaser µ
+erhaehaerfhaefaerhaerhaetjtjaser ∂
+erhaehaerfhaefaerhaerhaetjtjaser 	•
+erhaehaerfhaefaerhaerhaetjtjaser 	¨
+erhaehaerfhaefaerhaerhaetjtjaser 	≠
+erhaehaerfhaefaerhaerhaetjtjaser 	Æ
+erhaehaerfhaefaerhaerhaetjtjaser 	≥
+erhaehaerfhaefaerhaerhaetjtjaser 	µ
+erhaehaerfhaefaerhaerhaetjtjaser 	∂
+ewald52
+f4ph7a9n
+f6GGvnRA1
+fap.mil.dk
+ffstd5tq
+finsen_EXT
+fkRjF6NH
+foetex Hotspot
+fq69parv
+fred
+fullrate_c02a
+fullrate_cab2
+futura10
+g47y9mrg
+gaest
+gaia
+galatasaray_24Ghz
+garagen
+gbgurgqh
+gdbhhsxj
+gnss6jsx
+god mad til folket
+goldschmidt_wifip
+govroam
+grooseboose
+grqg6tbh
+guest_lan
+guestz
+gxy36b7z
+gzv7z3ts
+hCtpvXs7
+hG35nGEk
+haarklinikken
+hammer2017
+hanks44f
+hcswlan
+helde
+hndtest1x
+hongsong10_4633ND
+hp182
+hps.dj 24
+hpsetup
+htrbhfu3
+htuhqjm7
+hzj5h95s
+iLoveEcoEssentials.com
+iPhone
+iPhone CMA
+iPhone von Wolff Heinegg (2)
+imotowifi0DF515
+imotowifi0E0CFF
+inet
+inkit
+island-217EC0
+island-217ED0
+island-29E340
+island-2C5A60
+j5bfkn6v
+j7qbpj66
+jMuRVCrr
+jNtmvmkR
+jesnie_24GHz
+jetfi_37556
+jetfi_58304
+jetfi_67672
+jetfi_74146
+jetfi_94037
+jetfi_97008
+jmj
+jpÁöÑ iPhone
+jtskkudu
+ju9S4tta
+jyg97frg
+kayakbar
+kg5nrkq7
+kilolima
+kisse
+kj95f66k
+kk
+knpmn54k
+kobolt
+kofoed
+kofoed-b
+komfortzonen
+kon-wifi
+kon_tst_app
+koncern-guest
+koncessions
+kontorhotel01
+kontorhotel02
+kontorhotel03
+korf
+kpc2
+kvb7xx96_24GHz
+kyanosh
+kylle
+lasse2
+lchhg
+lejlighed6
+lieb
+lizziraun
+loveshack2
+lundkvist
+lynet
+m3ftquqs
+m3mmpyag
+mafalda-wifi
+magasin
+mdoffice
+meshlium_one
+meshlium_two
+meural-dali-952
+meural-kahlo-966
+milan1
+milo
+mkf9mzgz
+mobile
+mobilez
+modedesign
+modegangen
+modekitchen
+modenettet
+montana
+motherfucker
+mr9nYgUV
+mv6t5rsz
+mvmvr6fx
+mxFJnqd5
+mxmtuyfv
+mzvcr
+mzvcr_guest
+mzxyva7z
+n7zmzfpd
+nAKzEJkV
+nagenet
+neptunbus
+ninja-guest
+njmvn4rn
+nvdqg4x7
+o24clients
+o24guest
+o24int
+oXygen
+office
+one.com dev
+one.com guest
+p3mnjyhn
+p5kbb6mm
+p75ny5tt
+panda
+parkente
+parkente-EXT
+pdrm3xuu
+pfMmHjT4
+pfainvesteringprivat
+plant2
+postermaniac
+ppjygstr
+ps56r6tu
+psdry76p
+q7hqyzgp
+qbkm3yk3
+qmpf6jq5
+qqpjnr49
+qzvs679z
+rSKkHNzr
+rdhn3uzx
+red buses 1008
+redbuses 1211
+redbuses 1218
+redbuses 1221
+rhap24
+rhguest
+rsbjerg
+runliangÁöÑ iPhone
+s4p64uhm
+sY2eJQSo
+salon - guest
+salon employee
+salon mobile
+sandm
+sbgExnqV
+scandic_easy
+secondleft
+service
+sgroup
+sgvjjmst
+sirius
+sk8park
+skydragon
+smazzini‚Äôs iPhone
+snh
+sorryforthenoise
+srtnk93f
+ssgm
+starbuck
+stefansofia
+stigs sony
+stogfriwifi
+storm
+stormgade
+su4sbr45
+tarif96zefyr52chili
+taxa4x35_1497
+tbvauvqt
+tdk-net
+telepati
+telmore-guest
+testvlan
+tiramisu
+tranbergwifi
+tranbergwifi_EXT
+ts57qmfn
+tunnelkom.de
+tuxbrj7j
+tvcast
+tvfdq5pt
+tzk4hvya
+u9up3qyb
+ulriks xc90
+uvuzzuht
+uygaznvg
+v3
+v3ry6pdt
+vd5n7dmx
+velopwifi
+victoria T3
+virus24_EXT
+visitor
+vitanova
+vn3vsr3f
+vntxn9r3
+wass
+we OnePlus 5T
+wifi
+wifi_guest
+wifi_lan_dk
+wifi_mobile
+wifi_prod
+wifibus
+wifihjem
+winslow
+winstonsmith
+wir001
+wir002
+wir003
+wir004
+wir006
+wir0062
+wir040
+wir045
+wireless
+wireless_HAV
+workspace
+www.1st.Limo
+wx03-d90917
+xv6x7s6t
+xxxx
+y97u39yf
+yafyrf6m
+yaptk4tk
+yd7su79r
+yousee
+zealand
+zn3pq7n6
+ÂßúÂèó‰º∂ ÁöÑ iPhone
+Â∞èÁ±≥ÊâãÊú∫
+Êù®ÂÆöÂáΩMate 9 Pro
+Ìò∏Ï£ºÎèåÍ∏∞Ïó¨ÌñâÏ†ïÎ≥¥
